@@ -1,0 +1,41 @@
+{
+  "id": "mod-deep-learning-basic",
+  "slug": "module-deep-learning-basic",
+  "title": "深度学习基础",
+  "subtitle": "面向AI入门者",
+  "description": "面向AI入门和ML进阶学习者的神经网络反向传播激活函数优化器PyTorchCNNRNNTransformer训练调参与项目实战训练。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "深度学习",
+    "神经网络",
+    "PyTorch",
+    "CNN",
+    "RNN",
+    "Transformer",
+    "反向传播",
+    "模型训练"
+  ],
+  "estimatedHours": 190,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-02T12:00:00.000Z",
+  "coverEmoji": "🧠",
+  "repoUrl": "https://github.com/openskill-galaxy/module-deep-learning-basic",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 111
+  }
+}

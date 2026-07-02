@@ -1,0 +1,9882 @@
+[
+  {
+    "id": "dl-case-001",
+    "title": "张量操作案例1",
+    "description": "通过张量操作掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002460",
+      "dl-q-000499",
+      "dl-q-002031"
+    ],
+    "tags": [
+      "张量操作"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-002",
+    "title": "梯度计算案例2",
+    "description": "通过梯度计算掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002146",
+      "dl-q-001929",
+      "dl-q-000040"
+    ],
+    "tags": [
+      "梯度计算"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-003",
+    "title": "MLP分类案例3",
+    "description": "通过MLP分类掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002918",
+      "dl-q-003558",
+      "dl-q-000938"
+    ],
+    "tags": [
+      "MLP分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-004",
+    "title": "训练循环案例4",
+    "description": "通过训练循环掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002455",
+      "dl-q-000520",
+      "dl-q-002504"
+    ],
+    "tags": [
+      "训练循环"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-005",
+    "title": "损失下降案例5",
+    "description": "通过损失下降掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001237",
+      "dl-q-003457",
+      "dl-q-000498"
+    ],
+    "tags": [
+      "损失下降"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-006",
+    "title": "过拟合修复案例6",
+    "description": "通过过拟合修复掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003535",
+      "dl-q-001468",
+      "dl-q-001196"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-007",
+    "title": "CNN图像分类案例7",
+    "description": "通过CNN图像分类掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000295",
+      "dl-q-002814",
+      "dl-q-001619"
+    ],
+    "tags": [
+      "CNN图像分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-008",
+    "title": "DataLoader使用案例8",
+    "description": "通过DataLoader使用掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001337",
+      "dl-q-000280",
+      "dl-q-000616"
+    ],
+    "tags": [
+      "DataLoader使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-009",
+    "title": "模型保存加载案例9",
+    "description": "通过模型保存加载掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000461",
+      "dl-q-003269",
+      "dl-q-002155"
+    ],
+    "tags": [
+      "模型保存加载"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-010",
+    "title": "学习率调整案例10",
+    "description": "通过学习率调整掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002142",
+      "dl-q-001720",
+      "dl-q-002427"
+    ],
+    "tags": [
+      "学习率调整"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-011",
+    "title": "Dropout使用案例11",
+    "description": "通过Dropout使用掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000120",
+      "dl-q-002971",
+      "dl-q-000160"
+    ],
+    "tags": [
+      "Dropout使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-012",
+    "title": "BatchNorm使用案例12",
+    "description": "通过BatchNorm使用掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002372",
+      "dl-q-002683",
+      "dl-q-000732"
+    ],
+    "tags": [
+      "BatchNorm使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-013",
+    "title": "RNN序列案例13",
+    "description": "通过RNN序列掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000987",
+      "dl-q-001790",
+      "dl-q-001760"
+    ],
+    "tags": [
+      "RNN序列"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-014",
+    "title": "Attention解释案例14",
+    "description": "通过Attention解释掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000601",
+      "dl-q-000507",
+      "dl-q-000916"
+    ],
+    "tags": [
+      "Attention解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-015",
+    "title": "Transformer入门案例15",
+    "description": "通过Transformer入门掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003132",
+      "dl-q-001894",
+      "dl-q-000393"
+    ],
+    "tags": [
+      "Transformer入门"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-016",
+    "title": "PyTorch报错案例16",
+    "description": "通过PyTorch报错掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001217",
+      "dl-q-003140",
+      "dl-q-000272"
+    ],
+    "tags": [
+      "PyTorch报错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-017",
+    "title": "DL面试案例17",
+    "description": "通过DL面试掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002456",
+      "dl-q-002557",
+      "dl-q-002589"
+    ],
+    "tags": [
+      "DL面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-018",
+    "title": "张量操作案例18",
+    "description": "通过张量操作掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003553",
+      "dl-q-001705",
+      "dl-q-002945"
+    ],
+    "tags": [
+      "张量操作"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-019",
+    "title": "梯度计算案例19",
+    "description": "通过梯度计算掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003312",
+      "dl-q-003230",
+      "dl-q-002539"
+    ],
+    "tags": [
+      "梯度计算"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-020",
+    "title": "MLP分类案例20",
+    "description": "通过MLP分类掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001227",
+      "dl-q-000171",
+      "dl-q-003339"
+    ],
+    "tags": [
+      "MLP分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-021",
+    "title": "训练循环案例21",
+    "description": "通过训练循环掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002180",
+      "dl-q-000200",
+      "dl-q-001556"
+    ],
+    "tags": [
+      "训练循环"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-022",
+    "title": "损失下降案例22",
+    "description": "通过损失下降掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000824",
+      "dl-q-003653",
+      "dl-q-001547"
+    ],
+    "tags": [
+      "损失下降"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-023",
+    "title": "过拟合修复案例23",
+    "description": "通过过拟合修复掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000132",
+      "dl-q-002161",
+      "dl-q-001744"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-024",
+    "title": "CNN图像分类案例24",
+    "description": "通过CNN图像分类掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002432",
+      "dl-q-002022",
+      "dl-q-000051"
+    ],
+    "tags": [
+      "CNN图像分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-025",
+    "title": "DataLoader使用案例25",
+    "description": "通过DataLoader使用掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000339",
+      "dl-q-000526",
+      "dl-q-002077"
+    ],
+    "tags": [
+      "DataLoader使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-026",
+    "title": "模型保存加载案例26",
+    "description": "通过模型保存加载掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002445",
+      "dl-q-002927",
+      "dl-q-002729"
+    ],
+    "tags": [
+      "模型保存加载"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-027",
+    "title": "学习率调整案例27",
+    "description": "通过学习率调整掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003558",
+      "dl-q-003543",
+      "dl-q-002633"
+    ],
+    "tags": [
+      "学习率调整"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-028",
+    "title": "Dropout使用案例28",
+    "description": "通过Dropout使用掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003387",
+      "dl-q-002863",
+      "dl-q-002218"
+    ],
+    "tags": [
+      "Dropout使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-029",
+    "title": "BatchNorm使用案例29",
+    "description": "通过BatchNorm使用掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001412",
+      "dl-q-000744",
+      "dl-q-002962"
+    ],
+    "tags": [
+      "BatchNorm使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-030",
+    "title": "RNN序列案例30",
+    "description": "通过RNN序列掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001246",
+      "dl-q-003074",
+      "dl-q-000148"
+    ],
+    "tags": [
+      "RNN序列"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-031",
+    "title": "Attention解释案例31",
+    "description": "通过Attention解释掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001509",
+      "dl-q-002725",
+      "dl-q-000771"
+    ],
+    "tags": [
+      "Attention解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-032",
+    "title": "Transformer入门案例32",
+    "description": "通过Transformer入门掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000513",
+      "dl-q-002478",
+      "dl-q-000628"
+    ],
+    "tags": [
+      "Transformer入门"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-033",
+    "title": "PyTorch报错案例33",
+    "description": "通过PyTorch报错掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000057",
+      "dl-q-001000",
+      "dl-q-003530"
+    ],
+    "tags": [
+      "PyTorch报错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-034",
+    "title": "DL面试案例34",
+    "description": "通过DL面试掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002165",
+      "dl-q-001859",
+      "dl-q-003674"
+    ],
+    "tags": [
+      "DL面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-035",
+    "title": "张量操作案例35",
+    "description": "通过张量操作掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000937",
+      "dl-q-001372",
+      "dl-q-000607"
+    ],
+    "tags": [
+      "张量操作"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-036",
+    "title": "梯度计算案例36",
+    "description": "通过梯度计算掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002777",
+      "dl-q-000743",
+      "dl-q-001285"
+    ],
+    "tags": [
+      "梯度计算"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-037",
+    "title": "MLP分类案例37",
+    "description": "通过MLP分类掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003376",
+      "dl-q-002316",
+      "dl-q-000372"
+    ],
+    "tags": [
+      "MLP分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-038",
+    "title": "训练循环案例38",
+    "description": "通过训练循环掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000259",
+      "dl-q-002443",
+      "dl-q-000052"
+    ],
+    "tags": [
+      "训练循环"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-039",
+    "title": "损失下降案例39",
+    "description": "通过损失下降掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002744",
+      "dl-q-000359",
+      "dl-q-000742"
+    ],
+    "tags": [
+      "损失下降"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-040",
+    "title": "过拟合修复案例40",
+    "description": "通过过拟合修复掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002255",
+      "dl-q-002330",
+      "dl-q-001608"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-041",
+    "title": "CNN图像分类案例41",
+    "description": "通过CNN图像分类掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000009",
+      "dl-q-001811",
+      "dl-q-001840"
+    ],
+    "tags": [
+      "CNN图像分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-042",
+    "title": "DataLoader使用案例42",
+    "description": "通过DataLoader使用掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002289",
+      "dl-q-002563",
+      "dl-q-001549"
+    ],
+    "tags": [
+      "DataLoader使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-043",
+    "title": "模型保存加载案例43",
+    "description": "通过模型保存加载掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002098",
+      "dl-q-001802",
+      "dl-q-000485"
+    ],
+    "tags": [
+      "模型保存加载"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-044",
+    "title": "学习率调整案例44",
+    "description": "通过学习率调整掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003112",
+      "dl-q-000801",
+      "dl-q-001465"
+    ],
+    "tags": [
+      "学习率调整"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-045",
+    "title": "Dropout使用案例45",
+    "description": "通过Dropout使用掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001091",
+      "dl-q-000883",
+      "dl-q-002401"
+    ],
+    "tags": [
+      "Dropout使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-046",
+    "title": "BatchNorm使用案例46",
+    "description": "通过BatchNorm使用掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002359",
+      "dl-q-002535",
+      "dl-q-001896"
+    ],
+    "tags": [
+      "BatchNorm使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-047",
+    "title": "RNN序列案例47",
+    "description": "通过RNN序列掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000790",
+      "dl-q-000354",
+      "dl-q-000352"
+    ],
+    "tags": [
+      "RNN序列"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-048",
+    "title": "Attention解释案例48",
+    "description": "通过Attention解释掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000051",
+      "dl-q-002389",
+      "dl-q-001009"
+    ],
+    "tags": [
+      "Attention解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-049",
+    "title": "Transformer入门案例49",
+    "description": "通过Transformer入门掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000676",
+      "dl-q-003301",
+      "dl-q-003180"
+    ],
+    "tags": [
+      "Transformer入门"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-050",
+    "title": "PyTorch报错案例50",
+    "description": "通过PyTorch报错掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002398",
+      "dl-q-002013",
+      "dl-q-000826"
+    ],
+    "tags": [
+      "PyTorch报错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-051",
+    "title": "DL面试案例51",
+    "description": "通过DL面试掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000905",
+      "dl-q-000785",
+      "dl-q-002399"
+    ],
+    "tags": [
+      "DL面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-052",
+    "title": "张量操作案例52",
+    "description": "通过张量操作掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002677",
+      "dl-q-001828",
+      "dl-q-000384"
+    ],
+    "tags": [
+      "张量操作"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-053",
+    "title": "梯度计算案例53",
+    "description": "通过梯度计算掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001890",
+      "dl-q-000845",
+      "dl-q-000694"
+    ],
+    "tags": [
+      "梯度计算"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-054",
+    "title": "MLP分类案例54",
+    "description": "通过MLP分类掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002538",
+      "dl-q-001498",
+      "dl-q-001833"
+    ],
+    "tags": [
+      "MLP分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-055",
+    "title": "训练循环案例55",
+    "description": "通过训练循环掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003624",
+      "dl-q-001529",
+      "dl-q-001024"
+    ],
+    "tags": [
+      "训练循环"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-056",
+    "title": "损失下降案例56",
+    "description": "通过损失下降掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001539",
+      "dl-q-003292",
+      "dl-q-002069"
+    ],
+    "tags": [
+      "损失下降"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-057",
+    "title": "过拟合修复案例57",
+    "description": "通过过拟合修复掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001349",
+      "dl-q-001901",
+      "dl-q-002416"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-058",
+    "title": "CNN图像分类案例58",
+    "description": "通过CNN图像分类掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001170",
+      "dl-q-002788",
+      "dl-q-001034"
+    ],
+    "tags": [
+      "CNN图像分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-059",
+    "title": "DataLoader使用案例59",
+    "description": "通过DataLoader使用掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000735",
+      "dl-q-000200",
+      "dl-q-000612"
+    ],
+    "tags": [
+      "DataLoader使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-060",
+    "title": "模型保存加载案例60",
+    "description": "通过模型保存加载掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001350",
+      "dl-q-001210",
+      "dl-q-002635"
+    ],
+    "tags": [
+      "模型保存加载"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-061",
+    "title": "学习率调整案例61",
+    "description": "通过学习率调整掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000228",
+      "dl-q-002848",
+      "dl-q-001414"
+    ],
+    "tags": [
+      "学习率调整"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-062",
+    "title": "Dropout使用案例62",
+    "description": "通过Dropout使用掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001878",
+      "dl-q-000772",
+      "dl-q-000585"
+    ],
+    "tags": [
+      "Dropout使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-063",
+    "title": "BatchNorm使用案例63",
+    "description": "通过BatchNorm使用掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001605",
+      "dl-q-003387",
+      "dl-q-003271"
+    ],
+    "tags": [
+      "BatchNorm使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-064",
+    "title": "RNN序列案例64",
+    "description": "通过RNN序列掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002508",
+      "dl-q-001975",
+      "dl-q-002042"
+    ],
+    "tags": [
+      "RNN序列"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-065",
+    "title": "Attention解释案例65",
+    "description": "通过Attention解释掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001261",
+      "dl-q-000757",
+      "dl-q-000590"
+    ],
+    "tags": [
+      "Attention解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-066",
+    "title": "Transformer入门案例66",
+    "description": "通过Transformer入门掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003075",
+      "dl-q-000908",
+      "dl-q-002938"
+    ],
+    "tags": [
+      "Transformer入门"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-067",
+    "title": "PyTorch报错案例67",
+    "description": "通过PyTorch报错掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000093",
+      "dl-q-001281",
+      "dl-q-001626"
+    ],
+    "tags": [
+      "PyTorch报错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-068",
+    "title": "DL面试案例68",
+    "description": "通过DL面试掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000776",
+      "dl-q-000746",
+      "dl-q-001767"
+    ],
+    "tags": [
+      "DL面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-069",
+    "title": "张量操作案例69",
+    "description": "通过张量操作掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001532",
+      "dl-q-002728",
+      "dl-q-000463"
+    ],
+    "tags": [
+      "张量操作"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-070",
+    "title": "梯度计算案例70",
+    "description": "通过梯度计算掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001243",
+      "dl-q-003047",
+      "dl-q-001039"
+    ],
+    "tags": [
+      "梯度计算"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-071",
+    "title": "MLP分类案例71",
+    "description": "通过MLP分类掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001832",
+      "dl-q-002252",
+      "dl-q-001098"
+    ],
+    "tags": [
+      "MLP分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-072",
+    "title": "训练循环案例72",
+    "description": "通过训练循环掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001398",
+      "dl-q-002760",
+      "dl-q-001025"
+    ],
+    "tags": [
+      "训练循环"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-073",
+    "title": "损失下降案例73",
+    "description": "通过损失下降掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000450",
+      "dl-q-003395",
+      "dl-q-002848"
+    ],
+    "tags": [
+      "损失下降"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-074",
+    "title": "过拟合修复案例74",
+    "description": "通过过拟合修复掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000778",
+      "dl-q-002862",
+      "dl-q-001896"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-075",
+    "title": "CNN图像分类案例75",
+    "description": "通过CNN图像分类掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000943",
+      "dl-q-000338",
+      "dl-q-001568"
+    ],
+    "tags": [
+      "CNN图像分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-076",
+    "title": "DataLoader使用案例76",
+    "description": "通过DataLoader使用掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003223",
+      "dl-q-001285",
+      "dl-q-001827"
+    ],
+    "tags": [
+      "DataLoader使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-077",
+    "title": "模型保存加载案例77",
+    "description": "通过模型保存加载掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002600",
+      "dl-q-000254",
+      "dl-q-003417"
+    ],
+    "tags": [
+      "模型保存加载"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-078",
+    "title": "学习率调整案例78",
+    "description": "通过学习率调整掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001823",
+      "dl-q-002799",
+      "dl-q-001376"
+    ],
+    "tags": [
+      "学习率调整"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-079",
+    "title": "Dropout使用案例79",
+    "description": "通过Dropout使用掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000504",
+      "dl-q-001534",
+      "dl-q-001368"
+    ],
+    "tags": [
+      "Dropout使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-080",
+    "title": "BatchNorm使用案例80",
+    "description": "通过BatchNorm使用掌握DL",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003219",
+      "dl-q-002981",
+      "dl-q-003337"
+    ],
+    "tags": [
+      "BatchNorm使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-081",
+    "title": "RNN序列案例81",
+    "description": "通过RNN序列掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002177",
+      "dl-q-002996",
+      "dl-q-001098"
+    ],
+    "tags": [
+      "RNN序列"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-082",
+    "title": "Attention解释案例82",
+    "description": "通过Attention解释掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001842",
+      "dl-q-003378",
+      "dl-q-001548"
+    ],
+    "tags": [
+      "Attention解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-083",
+    "title": "Transformer入门案例83",
+    "description": "通过Transformer入门掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000837",
+      "dl-q-002916",
+      "dl-q-001183"
+    ],
+    "tags": [
+      "Transformer入门"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-084",
+    "title": "PyTorch报错案例84",
+    "description": "通过PyTorch报错掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000348",
+      "dl-q-002801",
+      "dl-q-003642"
+    ],
+    "tags": [
+      "PyTorch报错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-085",
+    "title": "DL面试案例85",
+    "description": "通过DL面试掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001484",
+      "dl-q-000658",
+      "dl-q-000187"
+    ],
+    "tags": [
+      "DL面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-086",
+    "title": "张量操作案例86",
+    "description": "通过张量操作掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000757",
+      "dl-q-001880",
+      "dl-q-002939"
+    ],
+    "tags": [
+      "张量操作"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-087",
+    "title": "梯度计算案例87",
+    "description": "通过梯度计算掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000919",
+      "dl-q-002993",
+      "dl-q-002956"
+    ],
+    "tags": [
+      "梯度计算"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-088",
+    "title": "MLP分类案例88",
+    "description": "通过MLP分类掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002175",
+      "dl-q-000697",
+      "dl-q-002898"
+    ],
+    "tags": [
+      "MLP分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-089",
+    "title": "训练循环案例89",
+    "description": "通过训练循环掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001287",
+      "dl-q-001939",
+      "dl-q-000474"
+    ],
+    "tags": [
+      "训练循环"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-090",
+    "title": "损失下降案例90",
+    "description": "通过损失下降掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001041",
+      "dl-q-003407",
+      "dl-q-001172"
+    ],
+    "tags": [
+      "损失下降"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-091",
+    "title": "过拟合修复案例91",
+    "description": "通过过拟合修复掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000938",
+      "dl-q-001078",
+      "dl-q-001461"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-092",
+    "title": "CNN图像分类案例92",
+    "description": "通过CNN图像分类掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000489",
+      "dl-q-002402",
+      "dl-q-002645"
+    ],
+    "tags": [
+      "CNN图像分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-093",
+    "title": "DataLoader使用案例93",
+    "description": "通过DataLoader使用掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003019",
+      "dl-q-002968",
+      "dl-q-001330"
+    ],
+    "tags": [
+      "DataLoader使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-094",
+    "title": "模型保存加载案例94",
+    "description": "通过模型保存加载掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001758",
+      "dl-q-002870",
+      "dl-q-000253"
+    ],
+    "tags": [
+      "模型保存加载"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-095",
+    "title": "学习率调整案例95",
+    "description": "通过学习率调整掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000301",
+      "dl-q-001613",
+      "dl-q-001182"
+    ],
+    "tags": [
+      "学习率调整"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-096",
+    "title": "Dropout使用案例96",
+    "description": "通过Dropout使用掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000589",
+      "dl-q-001581",
+      "dl-q-001872"
+    ],
+    "tags": [
+      "Dropout使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-097",
+    "title": "BatchNorm使用案例97",
+    "description": "通过BatchNorm使用掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000814",
+      "dl-q-000802",
+      "dl-q-001805"
+    ],
+    "tags": [
+      "BatchNorm使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-098",
+    "title": "RNN序列案例98",
+    "description": "通过RNN序列掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001188",
+      "dl-q-001802",
+      "dl-q-002998"
+    ],
+    "tags": [
+      "RNN序列"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-099",
+    "title": "Attention解释案例99",
+    "description": "通过Attention解释掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003040",
+      "dl-q-002312",
+      "dl-q-000598"
+    ],
+    "tags": [
+      "Attention解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-100",
+    "title": "Transformer入门案例100",
+    "description": "通过Transformer入门掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002842",
+      "dl-q-003479",
+      "dl-q-000266"
+    ],
+    "tags": [
+      "Transformer入门"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-101",
+    "title": "PyTorch报错案例101",
+    "description": "通过PyTorch报错掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000491",
+      "dl-q-002217",
+      "dl-q-000376"
+    ],
+    "tags": [
+      "PyTorch报错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-102",
+    "title": "DL面试案例102",
+    "description": "通过DL面试掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003146",
+      "dl-q-001560",
+      "dl-q-001160"
+    ],
+    "tags": [
+      "DL面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-103",
+    "title": "张量操作案例103",
+    "description": "通过张量操作掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000915",
+      "dl-q-001817",
+      "dl-q-002293"
+    ],
+    "tags": [
+      "张量操作"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-104",
+    "title": "梯度计算案例104",
+    "description": "通过梯度计算掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002650",
+      "dl-q-003683",
+      "dl-q-003130"
+    ],
+    "tags": [
+      "梯度计算"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-105",
+    "title": "MLP分类案例105",
+    "description": "通过MLP分类掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003691",
+      "dl-q-002723",
+      "dl-q-002266"
+    ],
+    "tags": [
+      "MLP分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-106",
+    "title": "训练循环案例106",
+    "description": "通过训练循环掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003078",
+      "dl-q-002780",
+      "dl-q-000250"
+    ],
+    "tags": [
+      "训练循环"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-107",
+    "title": "损失下降案例107",
+    "description": "通过损失下降掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002216",
+      "dl-q-000218",
+      "dl-q-001445"
+    ],
+    "tags": [
+      "损失下降"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-108",
+    "title": "过拟合修复案例108",
+    "description": "通过过拟合修复掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003004",
+      "dl-q-000676",
+      "dl-q-001098"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-109",
+    "title": "CNN图像分类案例109",
+    "description": "通过CNN图像分类掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002932",
+      "dl-q-001792",
+      "dl-q-001488"
+    ],
+    "tags": [
+      "CNN图像分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-110",
+    "title": "DataLoader使用案例110",
+    "description": "通过DataLoader使用掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002544",
+      "dl-q-003683",
+      "dl-q-002765"
+    ],
+    "tags": [
+      "DataLoader使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-111",
+    "title": "模型保存加载案例111",
+    "description": "通过模型保存加载掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002216",
+      "dl-q-001722",
+      "dl-q-003099"
+    ],
+    "tags": [
+      "模型保存加载"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-112",
+    "title": "学习率调整案例112",
+    "description": "通过学习率调整掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001518",
+      "dl-q-002277",
+      "dl-q-001786"
+    ],
+    "tags": [
+      "学习率调整"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-113",
+    "title": "Dropout使用案例113",
+    "description": "通过Dropout使用掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001332",
+      "dl-q-001176",
+      "dl-q-000568"
+    ],
+    "tags": [
+      "Dropout使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-114",
+    "title": "BatchNorm使用案例114",
+    "description": "通过BatchNorm使用掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000289",
+      "dl-q-002947",
+      "dl-q-003439"
+    ],
+    "tags": [
+      "BatchNorm使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-115",
+    "title": "RNN序列案例115",
+    "description": "通过RNN序列掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001489",
+      "dl-q-002515",
+      "dl-q-000830"
+    ],
+    "tags": [
+      "RNN序列"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-116",
+    "title": "Attention解释案例116",
+    "description": "通过Attention解释掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001330",
+      "dl-q-002470",
+      "dl-q-003236"
+    ],
+    "tags": [
+      "Attention解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-117",
+    "title": "Transformer入门案例117",
+    "description": "通过Transformer入门掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001000",
+      "dl-q-003146",
+      "dl-q-002123"
+    ],
+    "tags": [
+      "Transformer入门"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-118",
+    "title": "PyTorch报错案例118",
+    "description": "通过PyTorch报错掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003142",
+      "dl-q-002075",
+      "dl-q-003435"
+    ],
+    "tags": [
+      "PyTorch报错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-119",
+    "title": "DL面试案例119",
+    "description": "通过DL面试掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001262",
+      "dl-q-003642",
+      "dl-q-001558"
+    ],
+    "tags": [
+      "DL面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-120",
+    "title": "张量操作案例120",
+    "description": "通过张量操作掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000773",
+      "dl-q-000984",
+      "dl-q-001240"
+    ],
+    "tags": [
+      "张量操作"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-121",
+    "title": "梯度计算案例121",
+    "description": "通过梯度计算掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002789",
+      "dl-q-001915",
+      "dl-q-002017"
+    ],
+    "tags": [
+      "梯度计算"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-122",
+    "title": "MLP分类案例122",
+    "description": "通过MLP分类掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001134",
+      "dl-q-002399",
+      "dl-q-001020"
+    ],
+    "tags": [
+      "MLP分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-123",
+    "title": "训练循环案例123",
+    "description": "通过训练循环掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001525",
+      "dl-q-002519",
+      "dl-q-002591"
+    ],
+    "tags": [
+      "训练循环"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-124",
+    "title": "损失下降案例124",
+    "description": "通过损失下降掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000208",
+      "dl-q-003023",
+      "dl-q-000471"
+    ],
+    "tags": [
+      "损失下降"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-125",
+    "title": "过拟合修复案例125",
+    "description": "通过过拟合修复掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003577",
+      "dl-q-000879",
+      "dl-q-000969"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-126",
+    "title": "CNN图像分类案例126",
+    "description": "通过CNN图像分类掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003073",
+      "dl-q-000725",
+      "dl-q-002878"
+    ],
+    "tags": [
+      "CNN图像分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-127",
+    "title": "DataLoader使用案例127",
+    "description": "通过DataLoader使用掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000910",
+      "dl-q-000591",
+      "dl-q-002780"
+    ],
+    "tags": [
+      "DataLoader使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-128",
+    "title": "模型保存加载案例128",
+    "description": "通过模型保存加载掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001813",
+      "dl-q-003181",
+      "dl-q-002864"
+    ],
+    "tags": [
+      "模型保存加载"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-129",
+    "title": "学习率调整案例129",
+    "description": "通过学习率调整掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000023",
+      "dl-q-001974",
+      "dl-q-003469"
+    ],
+    "tags": [
+      "学习率调整"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-130",
+    "title": "Dropout使用案例130",
+    "description": "通过Dropout使用掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000970",
+      "dl-q-001430",
+      "dl-q-001370"
+    ],
+    "tags": [
+      "Dropout使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-131",
+    "title": "BatchNorm使用案例131",
+    "description": "通过BatchNorm使用掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000014",
+      "dl-q-002505",
+      "dl-q-002493"
+    ],
+    "tags": [
+      "BatchNorm使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-132",
+    "title": "RNN序列案例132",
+    "description": "通过RNN序列掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001831",
+      "dl-q-002877",
+      "dl-q-002528"
+    ],
+    "tags": [
+      "RNN序列"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-133",
+    "title": "Attention解释案例133",
+    "description": "通过Attention解释掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001212",
+      "dl-q-001937",
+      "dl-q-001068"
+    ],
+    "tags": [
+      "Attention解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-134",
+    "title": "Transformer入门案例134",
+    "description": "通过Transformer入门掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001812",
+      "dl-q-002472",
+      "dl-q-002340"
+    ],
+    "tags": [
+      "Transformer入门"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-135",
+    "title": "PyTorch报错案例135",
+    "description": "通过PyTorch报错掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003135",
+      "dl-q-003284",
+      "dl-q-001139"
+    ],
+    "tags": [
+      "PyTorch报错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-136",
+    "title": "DL面试案例136",
+    "description": "通过DL面试掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001244",
+      "dl-q-000735",
+      "dl-q-003419"
+    ],
+    "tags": [
+      "DL面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-137",
+    "title": "张量操作案例137",
+    "description": "通过张量操作掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003312",
+      "dl-q-002867",
+      "dl-q-001618"
+    ],
+    "tags": [
+      "张量操作"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-138",
+    "title": "梯度计算案例138",
+    "description": "通过梯度计算掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000118",
+      "dl-q-002162",
+      "dl-q-002369"
+    ],
+    "tags": [
+      "梯度计算"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-139",
+    "title": "MLP分类案例139",
+    "description": "通过MLP分类掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003600",
+      "dl-q-000891",
+      "dl-q-001924"
+    ],
+    "tags": [
+      "MLP分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-140",
+    "title": "训练循环案例140",
+    "description": "通过训练循环掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001738",
+      "dl-q-002354",
+      "dl-q-002520"
+    ],
+    "tags": [
+      "训练循环"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-141",
+    "title": "损失下降案例141",
+    "description": "通过损失下降掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003501",
+      "dl-q-003209",
+      "dl-q-003532"
+    ],
+    "tags": [
+      "损失下降"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-142",
+    "title": "过拟合修复案例142",
+    "description": "通过过拟合修复掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003420",
+      "dl-q-000846",
+      "dl-q-000398"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-143",
+    "title": "CNN图像分类案例143",
+    "description": "通过CNN图像分类掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000756",
+      "dl-q-000528",
+      "dl-q-003535"
+    ],
+    "tags": [
+      "CNN图像分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-144",
+    "title": "DataLoader使用案例144",
+    "description": "通过DataLoader使用掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002684",
+      "dl-q-002871",
+      "dl-q-001952"
+    ],
+    "tags": [
+      "DataLoader使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-145",
+    "title": "模型保存加载案例145",
+    "description": "通过模型保存加载掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000579",
+      "dl-q-003522",
+      "dl-q-000637"
+    ],
+    "tags": [
+      "模型保存加载"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-146",
+    "title": "学习率调整案例146",
+    "description": "通过学习率调整掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000523",
+      "dl-q-000210",
+      "dl-q-001002"
+    ],
+    "tags": [
+      "学习率调整"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-147",
+    "title": "Dropout使用案例147",
+    "description": "通过Dropout使用掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000515",
+      "dl-q-002396",
+      "dl-q-000735"
+    ],
+    "tags": [
+      "Dropout使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-148",
+    "title": "BatchNorm使用案例148",
+    "description": "通过BatchNorm使用掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000806",
+      "dl-q-003135",
+      "dl-q-001576"
+    ],
+    "tags": [
+      "BatchNorm使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-149",
+    "title": "RNN序列案例149",
+    "description": "通过RNN序列掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003601",
+      "dl-q-001524",
+      "dl-q-000245"
+    ],
+    "tags": [
+      "RNN序列"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-150",
+    "title": "Attention解释案例150",
+    "description": "通过Attention解释掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000519",
+      "dl-q-002953",
+      "dl-q-002960"
+    ],
+    "tags": [
+      "Attention解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-151",
+    "title": "Transformer入门案例151",
+    "description": "通过Transformer入门掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000516",
+      "dl-q-000382",
+      "dl-q-000825"
+    ],
+    "tags": [
+      "Transformer入门"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-152",
+    "title": "PyTorch报错案例152",
+    "description": "通过PyTorch报错掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002487",
+      "dl-q-001699",
+      "dl-q-001560"
+    ],
+    "tags": [
+      "PyTorch报错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-153",
+    "title": "DL面试案例153",
+    "description": "通过DL面试掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000488",
+      "dl-q-002858",
+      "dl-q-001472"
+    ],
+    "tags": [
+      "DL面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-154",
+    "title": "张量操作案例154",
+    "description": "通过张量操作掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002366",
+      "dl-q-002328",
+      "dl-q-001423"
+    ],
+    "tags": [
+      "张量操作"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-155",
+    "title": "梯度计算案例155",
+    "description": "通过梯度计算掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003229",
+      "dl-q-000036",
+      "dl-q-002807"
+    ],
+    "tags": [
+      "梯度计算"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-156",
+    "title": "MLP分类案例156",
+    "description": "通过MLP分类掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001587",
+      "dl-q-003698",
+      "dl-q-002606"
+    ],
+    "tags": [
+      "MLP分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-157",
+    "title": "训练循环案例157",
+    "description": "通过训练循环掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000682",
+      "dl-q-000992",
+      "dl-q-001721"
+    ],
+    "tags": [
+      "训练循环"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-158",
+    "title": "损失下降案例158",
+    "description": "通过损失下降掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003019",
+      "dl-q-001448",
+      "dl-q-000999"
+    ],
+    "tags": [
+      "损失下降"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-159",
+    "title": "过拟合修复案例159",
+    "description": "通过过拟合修复掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002596",
+      "dl-q-003276",
+      "dl-q-000690"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-160",
+    "title": "CNN图像分类案例160",
+    "description": "通过CNN图像分类掌握DL",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003231",
+      "dl-q-001544",
+      "dl-q-002007"
+    ],
+    "tags": [
+      "CNN图像分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-161",
+    "title": "DataLoader使用案例161",
+    "description": "通过DataLoader使用掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000518",
+      "dl-q-001234",
+      "dl-q-001076"
+    ],
+    "tags": [
+      "DataLoader使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-162",
+    "title": "模型保存加载案例162",
+    "description": "通过模型保存加载掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000776",
+      "dl-q-000822",
+      "dl-q-000954"
+    ],
+    "tags": [
+      "模型保存加载"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-163",
+    "title": "学习率调整案例163",
+    "description": "通过学习率调整掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000267",
+      "dl-q-001764",
+      "dl-q-002086"
+    ],
+    "tags": [
+      "学习率调整"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-164",
+    "title": "Dropout使用案例164",
+    "description": "通过Dropout使用掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001034",
+      "dl-q-000058",
+      "dl-q-002700"
+    ],
+    "tags": [
+      "Dropout使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-165",
+    "title": "BatchNorm使用案例165",
+    "description": "通过BatchNorm使用掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000456",
+      "dl-q-000108",
+      "dl-q-001310"
+    ],
+    "tags": [
+      "BatchNorm使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-166",
+    "title": "RNN序列案例166",
+    "description": "通过RNN序列掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002533",
+      "dl-q-000454",
+      "dl-q-001883"
+    ],
+    "tags": [
+      "RNN序列"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-167",
+    "title": "Attention解释案例167",
+    "description": "通过Attention解释掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003534",
+      "dl-q-002927",
+      "dl-q-003557"
+    ],
+    "tags": [
+      "Attention解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-168",
+    "title": "Transformer入门案例168",
+    "description": "通过Transformer入门掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000069",
+      "dl-q-000937",
+      "dl-q-000433"
+    ],
+    "tags": [
+      "Transformer入门"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-169",
+    "title": "PyTorch报错案例169",
+    "description": "通过PyTorch报错掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003065",
+      "dl-q-000366",
+      "dl-q-001289"
+    ],
+    "tags": [
+      "PyTorch报错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-170",
+    "title": "DL面试案例170",
+    "description": "通过DL面试掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000959",
+      "dl-q-000922",
+      "dl-q-001696"
+    ],
+    "tags": [
+      "DL面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-171",
+    "title": "张量操作案例171",
+    "description": "通过张量操作掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003363",
+      "dl-q-002013",
+      "dl-q-000997"
+    ],
+    "tags": [
+      "张量操作"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-172",
+    "title": "梯度计算案例172",
+    "description": "通过梯度计算掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001992",
+      "dl-q-001060",
+      "dl-q-000361"
+    ],
+    "tags": [
+      "梯度计算"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-173",
+    "title": "MLP分类案例173",
+    "description": "通过MLP分类掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003050",
+      "dl-q-003564",
+      "dl-q-001040"
+    ],
+    "tags": [
+      "MLP分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-174",
+    "title": "训练循环案例174",
+    "description": "通过训练循环掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001995",
+      "dl-q-000654",
+      "dl-q-003611"
+    ],
+    "tags": [
+      "训练循环"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-175",
+    "title": "损失下降案例175",
+    "description": "通过损失下降掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002019",
+      "dl-q-003653",
+      "dl-q-002131"
+    ],
+    "tags": [
+      "损失下降"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-176",
+    "title": "过拟合修复案例176",
+    "description": "通过过拟合修复掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000273",
+      "dl-q-002761",
+      "dl-q-000393"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-177",
+    "title": "CNN图像分类案例177",
+    "description": "通过CNN图像分类掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000418",
+      "dl-q-001051",
+      "dl-q-000143"
+    ],
+    "tags": [
+      "CNN图像分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-178",
+    "title": "DataLoader使用案例178",
+    "description": "通过DataLoader使用掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001341",
+      "dl-q-001398",
+      "dl-q-000556"
+    ],
+    "tags": [
+      "DataLoader使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-179",
+    "title": "模型保存加载案例179",
+    "description": "通过模型保存加载掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000431",
+      "dl-q-001665",
+      "dl-q-003573"
+    ],
+    "tags": [
+      "模型保存加载"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-180",
+    "title": "学习率调整案例180",
+    "description": "通过学习率调整掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002324",
+      "dl-q-002241",
+      "dl-q-002449"
+    ],
+    "tags": [
+      "学习率调整"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-181",
+    "title": "Dropout使用案例181",
+    "description": "通过Dropout使用掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000307",
+      "dl-q-002741",
+      "dl-q-002903"
+    ],
+    "tags": [
+      "Dropout使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-182",
+    "title": "BatchNorm使用案例182",
+    "description": "通过BatchNorm使用掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000014",
+      "dl-q-001779",
+      "dl-q-000760"
+    ],
+    "tags": [
+      "BatchNorm使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-183",
+    "title": "RNN序列案例183",
+    "description": "通过RNN序列掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001076",
+      "dl-q-003539",
+      "dl-q-002040"
+    ],
+    "tags": [
+      "RNN序列"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-184",
+    "title": "Attention解释案例184",
+    "description": "通过Attention解释掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001500",
+      "dl-q-000510",
+      "dl-q-000889"
+    ],
+    "tags": [
+      "Attention解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-185",
+    "title": "Transformer入门案例185",
+    "description": "通过Transformer入门掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002339",
+      "dl-q-000634",
+      "dl-q-000677"
+    ],
+    "tags": [
+      "Transformer入门"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-186",
+    "title": "PyTorch报错案例186",
+    "description": "通过PyTorch报错掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001563",
+      "dl-q-003348",
+      "dl-q-000487"
+    ],
+    "tags": [
+      "PyTorch报错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-187",
+    "title": "DL面试案例187",
+    "description": "通过DL面试掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001169",
+      "dl-q-001860",
+      "dl-q-002097"
+    ],
+    "tags": [
+      "DL面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-188",
+    "title": "张量操作案例188",
+    "description": "通过张量操作掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002531",
+      "dl-q-001626",
+      "dl-q-002703"
+    ],
+    "tags": [
+      "张量操作"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-189",
+    "title": "梯度计算案例189",
+    "description": "通过梯度计算掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002172",
+      "dl-q-002390",
+      "dl-q-002373"
+    ],
+    "tags": [
+      "梯度计算"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-190",
+    "title": "MLP分类案例190",
+    "description": "通过MLP分类掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001910",
+      "dl-q-000621",
+      "dl-q-001725"
+    ],
+    "tags": [
+      "MLP分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-191",
+    "title": "训练循环案例191",
+    "description": "通过训练循环掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001422",
+      "dl-q-003429",
+      "dl-q-002657"
+    ],
+    "tags": [
+      "训练循环"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-192",
+    "title": "损失下降案例192",
+    "description": "通过损失下降掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003683",
+      "dl-q-002905",
+      "dl-q-002523"
+    ],
+    "tags": [
+      "损失下降"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-193",
+    "title": "过拟合修复案例193",
+    "description": "通过过拟合修复掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003182",
+      "dl-q-003204",
+      "dl-q-002227"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-194",
+    "title": "CNN图像分类案例194",
+    "description": "通过CNN图像分类掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001891",
+      "dl-q-001081",
+      "dl-q-001773"
+    ],
+    "tags": [
+      "CNN图像分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-195",
+    "title": "DataLoader使用案例195",
+    "description": "通过DataLoader使用掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001992",
+      "dl-q-003100",
+      "dl-q-003494"
+    ],
+    "tags": [
+      "DataLoader使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-196",
+    "title": "模型保存加载案例196",
+    "description": "通过模型保存加载掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003352",
+      "dl-q-003297",
+      "dl-q-000955"
+    ],
+    "tags": [
+      "模型保存加载"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-197",
+    "title": "学习率调整案例197",
+    "description": "通过学习率调整掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000169",
+      "dl-q-003463",
+      "dl-q-000399"
+    ],
+    "tags": [
+      "学习率调整"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-198",
+    "title": "Dropout使用案例198",
+    "description": "通过Dropout使用掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000067",
+      "dl-q-002424",
+      "dl-q-002700"
+    ],
+    "tags": [
+      "Dropout使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-199",
+    "title": "BatchNorm使用案例199",
+    "description": "通过BatchNorm使用掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002127",
+      "dl-q-002151",
+      "dl-q-000321"
+    ],
+    "tags": [
+      "BatchNorm使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-200",
+    "title": "RNN序列案例200",
+    "description": "通过RNN序列掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003592",
+      "dl-q-002788",
+      "dl-q-002602"
+    ],
+    "tags": [
+      "RNN序列"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-201",
+    "title": "Attention解释案例201",
+    "description": "通过Attention解释掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000817",
+      "dl-q-002319",
+      "dl-q-001539"
+    ],
+    "tags": [
+      "Attention解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-202",
+    "title": "Transformer入门案例202",
+    "description": "通过Transformer入门掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001450",
+      "dl-q-001774",
+      "dl-q-002173"
+    ],
+    "tags": [
+      "Transformer入门"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-203",
+    "title": "PyTorch报错案例203",
+    "description": "通过PyTorch报错掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000960",
+      "dl-q-001053",
+      "dl-q-001547"
+    ],
+    "tags": [
+      "PyTorch报错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-204",
+    "title": "DL面试案例204",
+    "description": "通过DL面试掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001450",
+      "dl-q-000711",
+      "dl-q-001674"
+    ],
+    "tags": [
+      "DL面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-205",
+    "title": "张量操作案例205",
+    "description": "通过张量操作掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001701",
+      "dl-q-001433",
+      "dl-q-003203"
+    ],
+    "tags": [
+      "张量操作"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-206",
+    "title": "梯度计算案例206",
+    "description": "通过梯度计算掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002916",
+      "dl-q-002851",
+      "dl-q-000273"
+    ],
+    "tags": [
+      "梯度计算"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-207",
+    "title": "MLP分类案例207",
+    "description": "通过MLP分类掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003425",
+      "dl-q-002353",
+      "dl-q-001092"
+    ],
+    "tags": [
+      "MLP分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-208",
+    "title": "训练循环案例208",
+    "description": "通过训练循环掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002810",
+      "dl-q-003191",
+      "dl-q-000753"
+    ],
+    "tags": [
+      "训练循环"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-209",
+    "title": "损失下降案例209",
+    "description": "通过损失下降掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003244",
+      "dl-q-000907",
+      "dl-q-000021"
+    ],
+    "tags": [
+      "损失下降"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-210",
+    "title": "过拟合修复案例210",
+    "description": "通过过拟合修复掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003505",
+      "dl-q-002543",
+      "dl-q-003007"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-211",
+    "title": "CNN图像分类案例211",
+    "description": "通过CNN图像分类掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001117",
+      "dl-q-000734",
+      "dl-q-002322"
+    ],
+    "tags": [
+      "CNN图像分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-212",
+    "title": "DataLoader使用案例212",
+    "description": "通过DataLoader使用掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003313",
+      "dl-q-001678",
+      "dl-q-000737"
+    ],
+    "tags": [
+      "DataLoader使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-213",
+    "title": "模型保存加载案例213",
+    "description": "通过模型保存加载掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000707",
+      "dl-q-001645",
+      "dl-q-001057"
+    ],
+    "tags": [
+      "模型保存加载"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-214",
+    "title": "学习率调整案例214",
+    "description": "通过学习率调整掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003547",
+      "dl-q-000283",
+      "dl-q-001216"
+    ],
+    "tags": [
+      "学习率调整"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-215",
+    "title": "Dropout使用案例215",
+    "description": "通过Dropout使用掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002109",
+      "dl-q-000242",
+      "dl-q-003202"
+    ],
+    "tags": [
+      "Dropout使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-216",
+    "title": "BatchNorm使用案例216",
+    "description": "通过BatchNorm使用掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002469",
+      "dl-q-003577",
+      "dl-q-002364"
+    ],
+    "tags": [
+      "BatchNorm使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-217",
+    "title": "RNN序列案例217",
+    "description": "通过RNN序列掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001609",
+      "dl-q-001632",
+      "dl-q-003383"
+    ],
+    "tags": [
+      "RNN序列"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-218",
+    "title": "Attention解释案例218",
+    "description": "通过Attention解释掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003575",
+      "dl-q-000059",
+      "dl-q-003208"
+    ],
+    "tags": [
+      "Attention解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-219",
+    "title": "Transformer入门案例219",
+    "description": "通过Transformer入门掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000689",
+      "dl-q-000621",
+      "dl-q-000927"
+    ],
+    "tags": [
+      "Transformer入门"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-220",
+    "title": "PyTorch报错案例220",
+    "description": "通过PyTorch报错掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001130",
+      "dl-q-000108",
+      "dl-q-000888"
+    ],
+    "tags": [
+      "PyTorch报错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-221",
+    "title": "DL面试案例221",
+    "description": "通过DL面试掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001310",
+      "dl-q-001950",
+      "dl-q-003286"
+    ],
+    "tags": [
+      "DL面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-222",
+    "title": "张量操作案例222",
+    "description": "通过张量操作掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002737",
+      "dl-q-000704",
+      "dl-q-002424"
+    ],
+    "tags": [
+      "张量操作"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-223",
+    "title": "梯度计算案例223",
+    "description": "通过梯度计算掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002279",
+      "dl-q-000049",
+      "dl-q-001967"
+    ],
+    "tags": [
+      "梯度计算"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-224",
+    "title": "MLP分类案例224",
+    "description": "通过MLP分类掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002685",
+      "dl-q-002334",
+      "dl-q-000044"
+    ],
+    "tags": [
+      "MLP分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-225",
+    "title": "训练循环案例225",
+    "description": "通过训练循环掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002271",
+      "dl-q-001399",
+      "dl-q-002143"
+    ],
+    "tags": [
+      "训练循环"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-226",
+    "title": "损失下降案例226",
+    "description": "通过损失下降掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003655",
+      "dl-q-000924",
+      "dl-q-002552"
+    ],
+    "tags": [
+      "损失下降"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-227",
+    "title": "过拟合修复案例227",
+    "description": "通过过拟合修复掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001547",
+      "dl-q-001976",
+      "dl-q-003412"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-228",
+    "title": "CNN图像分类案例228",
+    "description": "通过CNN图像分类掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002858",
+      "dl-q-003584",
+      "dl-q-002524"
+    ],
+    "tags": [
+      "CNN图像分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-229",
+    "title": "DataLoader使用案例229",
+    "description": "通过DataLoader使用掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000564",
+      "dl-q-001019",
+      "dl-q-001682"
+    ],
+    "tags": [
+      "DataLoader使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-230",
+    "title": "模型保存加载案例230",
+    "description": "通过模型保存加载掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003606",
+      "dl-q-001298",
+      "dl-q-003598"
+    ],
+    "tags": [
+      "模型保存加载"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-231",
+    "title": "学习率调整案例231",
+    "description": "通过学习率调整掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002795",
+      "dl-q-002264",
+      "dl-q-000461"
+    ],
+    "tags": [
+      "学习率调整"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-232",
+    "title": "Dropout使用案例232",
+    "description": "通过Dropout使用掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002791",
+      "dl-q-003670",
+      "dl-q-002055"
+    ],
+    "tags": [
+      "Dropout使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-233",
+    "title": "BatchNorm使用案例233",
+    "description": "通过BatchNorm使用掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003591",
+      "dl-q-001571",
+      "dl-q-003127"
+    ],
+    "tags": [
+      "BatchNorm使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-234",
+    "title": "RNN序列案例234",
+    "description": "通过RNN序列掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002632",
+      "dl-q-002119",
+      "dl-q-002525"
+    ],
+    "tags": [
+      "RNN序列"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-235",
+    "title": "Attention解释案例235",
+    "description": "通过Attention解释掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000014",
+      "dl-q-002780",
+      "dl-q-003070"
+    ],
+    "tags": [
+      "Attention解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-236",
+    "title": "Transformer入门案例236",
+    "description": "通过Transformer入门掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002412",
+      "dl-q-000411",
+      "dl-q-001551"
+    ],
+    "tags": [
+      "Transformer入门"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-237",
+    "title": "PyTorch报错案例237",
+    "description": "通过PyTorch报错掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000909",
+      "dl-q-003582",
+      "dl-q-002316"
+    ],
+    "tags": [
+      "PyTorch报错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-238",
+    "title": "DL面试案例238",
+    "description": "通过DL面试掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001013",
+      "dl-q-000927",
+      "dl-q-001919"
+    ],
+    "tags": [
+      "DL面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-239",
+    "title": "张量操作案例239",
+    "description": "通过张量操作掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002976",
+      "dl-q-003291",
+      "dl-q-001626"
+    ],
+    "tags": [
+      "张量操作"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-240",
+    "title": "梯度计算案例240",
+    "description": "通过梯度计算掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001271",
+      "dl-q-002439",
+      "dl-q-003263"
+    ],
+    "tags": [
+      "梯度计算"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-241",
+    "title": "MLP分类案例241",
+    "description": "通过MLP分类掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001965",
+      "dl-q-002536",
+      "dl-q-003684"
+    ],
+    "tags": [
+      "MLP分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-242",
+    "title": "训练循环案例242",
+    "description": "通过训练循环掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000344",
+      "dl-q-000708",
+      "dl-q-003559"
+    ],
+    "tags": [
+      "训练循环"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-243",
+    "title": "损失下降案例243",
+    "description": "通过损失下降掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003455",
+      "dl-q-002467",
+      "dl-q-002320"
+    ],
+    "tags": [
+      "损失下降"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-244",
+    "title": "过拟合修复案例244",
+    "description": "通过过拟合修复掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000314",
+      "dl-q-002238",
+      "dl-q-001437"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-245",
+    "title": "CNN图像分类案例245",
+    "description": "通过CNN图像分类掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003474",
+      "dl-q-001501",
+      "dl-q-002632"
+    ],
+    "tags": [
+      "CNN图像分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-246",
+    "title": "DataLoader使用案例246",
+    "description": "通过DataLoader使用掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001892",
+      "dl-q-000146",
+      "dl-q-000604"
+    ],
+    "tags": [
+      "DataLoader使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-247",
+    "title": "模型保存加载案例247",
+    "description": "通过模型保存加载掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001316",
+      "dl-q-003609",
+      "dl-q-000399"
+    ],
+    "tags": [
+      "模型保存加载"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-248",
+    "title": "学习率调整案例248",
+    "description": "通过学习率调整掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001827",
+      "dl-q-000150",
+      "dl-q-002994"
+    ],
+    "tags": [
+      "学习率调整"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-249",
+    "title": "Dropout使用案例249",
+    "description": "通过Dropout使用掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002972",
+      "dl-q-003349",
+      "dl-q-001090"
+    ],
+    "tags": [
+      "Dropout使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-250",
+    "title": "BatchNorm使用案例250",
+    "description": "通过BatchNorm使用掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000922",
+      "dl-q-000253",
+      "dl-q-001313"
+    ],
+    "tags": [
+      "BatchNorm使用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-251",
+    "title": "RNN序列案例251",
+    "description": "通过RNN序列掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003477",
+      "dl-q-001080",
+      "dl-q-000870"
+    ],
+    "tags": [
+      "RNN序列"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-252",
+    "title": "Attention解释案例252",
+    "description": "通过Attention解释掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000948",
+      "dl-q-000210",
+      "dl-q-001817"
+    ],
+    "tags": [
+      "Attention解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-253",
+    "title": "Transformer入门案例253",
+    "description": "通过Transformer入门掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001094",
+      "dl-q-001252",
+      "dl-q-001620"
+    ],
+    "tags": [
+      "Transformer入门"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-254",
+    "title": "PyTorch报错案例254",
+    "description": "通过PyTorch报错掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000408",
+      "dl-q-003480",
+      "dl-q-001103"
+    ],
+    "tags": [
+      "PyTorch报错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-255",
+    "title": "DL面试案例255",
+    "description": "通过DL面试掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000544",
+      "dl-q-000477",
+      "dl-q-000319"
+    ],
+    "tags": [
+      "DL面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-256",
+    "title": "张量操作案例256",
+    "description": "通过张量操作掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-000657",
+      "dl-q-001314",
+      "dl-q-002320"
+    ],
+    "tags": [
+      "张量操作"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-257",
+    "title": "梯度计算案例257",
+    "description": "通过梯度计算掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002427",
+      "dl-q-003136",
+      "dl-q-001248"
+    ],
+    "tags": [
+      "梯度计算"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-258",
+    "title": "MLP分类案例258",
+    "description": "通过MLP分类掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-002184",
+      "dl-q-002113",
+      "dl-q-000777"
+    ],
+    "tags": [
+      "MLP分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-259",
+    "title": "训练循环案例259",
+    "description": "通过训练循环掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-001937",
+      "dl-q-001052",
+      "dl-q-003335"
+    ],
+    "tags": [
+      "训练循环"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dl-case-260",
+    "title": "损失下降案例260",
+    "description": "通过损失下降掌握DL",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dl-q-003061",
+      "dl-q-000345",
+      "dl-q-000633"
+    ],
+    "tags": [
+      "损失下降"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]

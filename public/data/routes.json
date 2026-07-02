@@ -1,0 +1,562 @@
+[
+  {
+    "id": "dl-route-01",
+    "slug": "DL路线1",
+    "title": "DL路线1",
+    "description": "DL路线1",
+    "summary": "DL路线1",
+    "targetUser": "目标1",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-02",
+    "slug": "DL路线2",
+    "title": "DL路线2",
+    "description": "DL路线2",
+    "summary": "DL路线2",
+    "targetUser": "目标2",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-03",
+    "slug": "DL路线3",
+    "title": "DL路线3",
+    "description": "DL路线3",
+    "summary": "DL路线3",
+    "targetUser": "目标3",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-04",
+    "slug": "DL路线4",
+    "title": "DL路线4",
+    "description": "DL路线4",
+    "summary": "DL路线4",
+    "targetUser": "目标4",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-05",
+    "slug": "DL路线5",
+    "title": "DL路线5",
+    "description": "DL路线5",
+    "summary": "DL路线5",
+    "targetUser": "目标5",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-06",
+    "slug": "DL路线6",
+    "title": "DL路线6",
+    "description": "DL路线6",
+    "summary": "DL路线6",
+    "targetUser": "目标6",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-07",
+    "slug": "DL路线7",
+    "title": "DL路线7",
+    "description": "DL路线7",
+    "summary": "DL路线7",
+    "targetUser": "目标7",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-08",
+    "slug": "DL路线8",
+    "title": "DL路线8",
+    "description": "DL路线8",
+    "summary": "DL路线8",
+    "targetUser": "目标8",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-09",
+    "slug": "DL路线9",
+    "title": "DL路线9",
+    "description": "DL路线9",
+    "summary": "DL路线9",
+    "targetUser": "目标9",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-10",
+    "slug": "DL路线10",
+    "title": "DL路线10",
+    "description": "DL路线10",
+    "summary": "DL路线10",
+    "targetUser": "目标10",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-11",
+    "slug": "DL路线11",
+    "title": "DL路线11",
+    "description": "DL路线11",
+    "summary": "DL路线11",
+    "targetUser": "目标11",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-12",
+    "slug": "DL路线12",
+    "title": "DL路线12",
+    "description": "DL路线12",
+    "summary": "DL路线12",
+    "targetUser": "目标12",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-13",
+    "slug": "DL路线13",
+    "title": "DL路线13",
+    "description": "DL路线13",
+    "summary": "DL路线13",
+    "targetUser": "目标13",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-14",
+    "slug": "DL路线14",
+    "title": "DL路线14",
+    "description": "DL路线14",
+    "summary": "DL路线14",
+    "targetUser": "目标14",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-15",
+    "slug": "DL路线15",
+    "title": "DL路线15",
+    "description": "DL路线15",
+    "summary": "DL路线15",
+    "targetUser": "目标15",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-16",
+    "slug": "DL路线16",
+    "title": "DL路线16",
+    "description": "DL路线16",
+    "summary": "DL路线16",
+    "targetUser": "目标16",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-17",
+    "slug": "DL路线17",
+    "title": "DL路线17",
+    "description": "DL路线17",
+    "summary": "DL路线17",
+    "targetUser": "目标17",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-18",
+    "slug": "DL路线18",
+    "title": "DL路线18",
+    "description": "DL路线18",
+    "summary": "DL路线18",
+    "targetUser": "目标18",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-19",
+    "slug": "DL路线19",
+    "title": "DL路线19",
+    "description": "DL路线19",
+    "summary": "DL路线19",
+    "targetUser": "目标19",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-20",
+    "slug": "DL路线20",
+    "title": "DL路线20",
+    "description": "DL路线20",
+    "summary": "DL路线20",
+    "targetUser": "目标20",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-21",
+    "slug": "DL路线21",
+    "title": "DL路线21",
+    "description": "DL路线21",
+    "summary": "DL路线21",
+    "targetUser": "目标21",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-22",
+    "slug": "DL路线22",
+    "title": "DL路线22",
+    "description": "DL路线22",
+    "summary": "DL路线22",
+    "targetUser": "目标22",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-23",
+    "slug": "DL路线23",
+    "title": "DL路线23",
+    "description": "DL路线23",
+    "summary": "DL路线23",
+    "targetUser": "目标23",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-24",
+    "slug": "DL路线24",
+    "title": "DL路线24",
+    "description": "DL路线24",
+    "summary": "DL路线24",
+    "targetUser": "目标24",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-25",
+    "slug": "DL路线25",
+    "title": "DL路线25",
+    "description": "DL路线25",
+    "summary": "DL路线25",
+    "targetUser": "目标25",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-26",
+    "slug": "DL路线26",
+    "title": "DL路线26",
+    "description": "DL路线26",
+    "summary": "DL路线26",
+    "targetUser": "目标26",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-27",
+    "slug": "DL路线27",
+    "title": "DL路线27",
+    "description": "DL路线27",
+    "summary": "DL路线27",
+    "targetUser": "目标27",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-28",
+    "slug": "DL路线28",
+    "title": "DL路线28",
+    "description": "DL路线28",
+    "summary": "DL路线28",
+    "targetUser": "目标28",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-29",
+    "slug": "DL路线29",
+    "title": "DL路线29",
+    "description": "DL路线29",
+    "summary": "DL路线29",
+    "targetUser": "目标29",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-30",
+    "slug": "DL路线30",
+    "title": "DL路线30",
+    "description": "DL路线30",
+    "summary": "DL路线30",
+    "targetUser": "目标30",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-31",
+    "slug": "DL路线31",
+    "title": "DL路线31",
+    "description": "DL路线31",
+    "summary": "DL路线31",
+    "targetUser": "目标31",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-32",
+    "slug": "DL路线32",
+    "title": "DL路线32",
+    "description": "DL路线32",
+    "summary": "DL路线32",
+    "targetUser": "目标32",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-33",
+    "slug": "DL路线33",
+    "title": "DL路线33",
+    "description": "DL路线33",
+    "summary": "DL路线33",
+    "targetUser": "目标33",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-34",
+    "slug": "DL路线34",
+    "title": "DL路线34",
+    "description": "DL路线34",
+    "summary": "DL路线34",
+    "targetUser": "目标34",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-35",
+    "slug": "DL路线35",
+    "title": "DL路线35",
+    "description": "DL路线35",
+    "summary": "DL路线35",
+    "targetUser": "目标35",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  }
+]
