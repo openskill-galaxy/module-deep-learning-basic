@@ -18,7 +18,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程1章1\n\nDL课程1章1内容。",
+    "knowledgePoints": [
+      "dl-kp-0002"
+    ]
   },
   {
     "id": "dl-lesson-002",
@@ -39,7 +43,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程1章2\n\nDL课程1章2内容。",
+    "knowledgePoints": [
+      "dl-kp-0003"
+    ]
   },
   {
     "id": "dl-lesson-003",
@@ -60,7 +68,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程1章3\n\nDL课程1章3内容。",
+    "knowledgePoints": [
+      "dl-kp-0004"
+    ]
   },
   {
     "id": "dl-lesson-004",
@@ -81,7 +93,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程1章4\n\nDL课程1章4内容。",
+    "knowledgePoints": [
+      "dl-kp-0005"
+    ]
   },
   {
     "id": "dl-lesson-005",
@@ -102,7 +118,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程1章5\n\nDL课程1章5内容。",
+    "knowledgePoints": [
+      "dl-kp-0006"
+    ]
   },
   {
     "id": "dl-lesson-006",
@@ -123,7 +143,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程1章6\n\nDL课程1章6内容。",
+    "knowledgePoints": [
+      "dl-kp-0007"
+    ]
   },
   {
     "id": "dl-lesson-007",
@@ -144,7 +168,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程1章7\n\nDL课程1章7内容。",
+    "knowledgePoints": [
+      "dl-kp-0008"
+    ]
   },
   {
     "id": "dl-lesson-008",
@@ -165,7 +193,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程1章8\n\nDL课程1章8内容。",
+    "knowledgePoints": [
+      "dl-kp-0009"
+    ]
   },
   {
     "id": "dl-lesson-009",
@@ -186,7 +218,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程1章9\n\nDL课程1章9内容。",
+    "knowledgePoints": [
+      "dl-kp-0010"
+    ]
   },
   {
     "id": "dl-lesson-010",
@@ -207,7 +243,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程1章10\n\nDL课程1章10内容。",
+    "knowledgePoints": [
+      "dl-kp-0011"
+    ]
   },
   {
     "id": "dl-lesson-011",
@@ -228,7 +268,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程1章11\n\nDL课程1章11内容。",
+    "knowledgePoints": [
+      "dl-kp-0012"
+    ]
   },
   {
     "id": "dl-lesson-012",
@@ -249,7 +293,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程1章12\n\nDL课程1章12内容。",
+    "knowledgePoints": [
+      "dl-kp-0013"
+    ]
   },
   {
     "id": "dl-lesson-013",
@@ -270,7 +318,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程1章13\n\nDL课程1章13内容。",
+    "knowledgePoints": [
+      "dl-kp-0014"
+    ]
   },
   {
     "id": "dl-lesson-014",
@@ -291,7 +343,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程2章1\n\nDL课程2章1内容。",
+    "knowledgePoints": [
+      "dl-kp-0015"
+    ]
   },
   {
     "id": "dl-lesson-015",
@@ -312,7 +368,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程2章2\n\nDL课程2章2内容。",
+    "knowledgePoints": [
+      "dl-kp-0016"
+    ]
   },
   {
     "id": "dl-lesson-016",
@@ -333,7 +393,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程2章3\n\nDL课程2章3内容。",
+    "knowledgePoints": [
+      "dl-kp-0017"
+    ]
   },
   {
     "id": "dl-lesson-017",
@@ -354,7 +418,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程2章4\n\nDL课程2章4内容。",
+    "knowledgePoints": [
+      "dl-kp-0018"
+    ]
   },
   {
     "id": "dl-lesson-018",
@@ -375,7 +443,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程2章5\n\nDL课程2章5内容。",
+    "knowledgePoints": [
+      "dl-kp-0019"
+    ]
   },
   {
     "id": "dl-lesson-019",
@@ -396,7 +468,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程2章6\n\nDL课程2章6内容。",
+    "knowledgePoints": [
+      "dl-kp-0020"
+    ]
   },
   {
     "id": "dl-lesson-020",
@@ -417,7 +493,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程2章7\n\nDL课程2章7内容。",
+    "knowledgePoints": [
+      "dl-kp-0021"
+    ]
   },
   {
     "id": "dl-lesson-021",
@@ -438,7 +518,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程2章8\n\nDL课程2章8内容。",
+    "knowledgePoints": [
+      "dl-kp-0022"
+    ]
   },
   {
     "id": "dl-lesson-022",
@@ -459,7 +543,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程2章9\n\nDL课程2章9内容。",
+    "knowledgePoints": [
+      "dl-kp-0023"
+    ]
   },
   {
     "id": "dl-lesson-023",
@@ -480,7 +568,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程2章10\n\nDL课程2章10内容。",
+    "knowledgePoints": [
+      "dl-kp-0024"
+    ]
   },
   {
     "id": "dl-lesson-024",
@@ -501,7 +593,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程2章11\n\nDL课程2章11内容。",
+    "knowledgePoints": [
+      "dl-kp-0025"
+    ]
   },
   {
     "id": "dl-lesson-025",
@@ -522,7 +618,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程2章12\n\nDL课程2章12内容。",
+    "knowledgePoints": [
+      "dl-kp-0026"
+    ]
   },
   {
     "id": "dl-lesson-026",
@@ -543,7 +643,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程2章13\n\nDL课程2章13内容。",
+    "knowledgePoints": [
+      "dl-kp-0027"
+    ]
   },
   {
     "id": "dl-lesson-027",
@@ -564,7 +668,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程3章1\n\nDL课程3章1内容。",
+    "knowledgePoints": [
+      "dl-kp-0028"
+    ]
   },
   {
     "id": "dl-lesson-028",
@@ -585,7 +693,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程3章2\n\nDL课程3章2内容。",
+    "knowledgePoints": [
+      "dl-kp-0029"
+    ]
   },
   {
     "id": "dl-lesson-029",
@@ -606,7 +718,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程3章3\n\nDL课程3章3内容。",
+    "knowledgePoints": [
+      "dl-kp-0030"
+    ]
   },
   {
     "id": "dl-lesson-030",
@@ -627,7 +743,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程3章4\n\nDL课程3章4内容。",
+    "knowledgePoints": [
+      "dl-kp-0031"
+    ]
   },
   {
     "id": "dl-lesson-031",
@@ -648,7 +768,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程3章5\n\nDL课程3章5内容。",
+    "knowledgePoints": [
+      "dl-kp-0032"
+    ]
   },
   {
     "id": "dl-lesson-032",
@@ -669,7 +793,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程3章6\n\nDL课程3章6内容。",
+    "knowledgePoints": [
+      "dl-kp-0033"
+    ]
   },
   {
     "id": "dl-lesson-033",
@@ -690,7 +818,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程3章7\n\nDL课程3章7内容。",
+    "knowledgePoints": [
+      "dl-kp-0034"
+    ]
   },
   {
     "id": "dl-lesson-034",
@@ -711,7 +843,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程3章8\n\nDL课程3章8内容。",
+    "knowledgePoints": [
+      "dl-kp-0035"
+    ]
   },
   {
     "id": "dl-lesson-035",
@@ -732,7 +868,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程3章9\n\nDL课程3章9内容。",
+    "knowledgePoints": [
+      "dl-kp-0036"
+    ]
   },
   {
     "id": "dl-lesson-036",
@@ -753,7 +893,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程3章10\n\nDL课程3章10内容。",
+    "knowledgePoints": [
+      "dl-kp-0037"
+    ]
   },
   {
     "id": "dl-lesson-037",
@@ -774,7 +918,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程3章11\n\nDL课程3章11内容。",
+    "knowledgePoints": [
+      "dl-kp-0038"
+    ]
   },
   {
     "id": "dl-lesson-038",
@@ -795,7 +943,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程3章12\n\nDL课程3章12内容。",
+    "knowledgePoints": [
+      "dl-kp-0039"
+    ]
   },
   {
     "id": "dl-lesson-039",
@@ -816,7 +968,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程3章13\n\nDL课程3章13内容。",
+    "knowledgePoints": [
+      "dl-kp-0040"
+    ]
   },
   {
     "id": "dl-lesson-040",
@@ -837,7 +993,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程4章1\n\nDL课程4章1内容。",
+    "knowledgePoints": [
+      "dl-kp-0041"
+    ]
   },
   {
     "id": "dl-lesson-041",
@@ -858,7 +1018,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程4章2\n\nDL课程4章2内容。",
+    "knowledgePoints": [
+      "dl-kp-0042"
+    ]
   },
   {
     "id": "dl-lesson-042",
@@ -879,7 +1043,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程4章3\n\nDL课程4章3内容。",
+    "knowledgePoints": [
+      "dl-kp-0043"
+    ]
   },
   {
     "id": "dl-lesson-043",
@@ -900,7 +1068,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程4章4\n\nDL课程4章4内容。",
+    "knowledgePoints": [
+      "dl-kp-0044"
+    ]
   },
   {
     "id": "dl-lesson-044",
@@ -921,7 +1093,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程4章5\n\nDL课程4章5内容。",
+    "knowledgePoints": [
+      "dl-kp-0045"
+    ]
   },
   {
     "id": "dl-lesson-045",
@@ -942,7 +1118,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程4章6\n\nDL课程4章6内容。",
+    "knowledgePoints": [
+      "dl-kp-0046"
+    ]
   },
   {
     "id": "dl-lesson-046",
@@ -963,7 +1143,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程4章7\n\nDL课程4章7内容。",
+    "knowledgePoints": [
+      "dl-kp-0047"
+    ]
   },
   {
     "id": "dl-lesson-047",
@@ -984,7 +1168,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程4章8\n\nDL课程4章8内容。",
+    "knowledgePoints": [
+      "dl-kp-0048"
+    ]
   },
   {
     "id": "dl-lesson-048",
@@ -1005,7 +1193,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程4章9\n\nDL课程4章9内容。",
+    "knowledgePoints": [
+      "dl-kp-0049"
+    ]
   },
   {
     "id": "dl-lesson-049",
@@ -1026,7 +1218,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程4章10\n\nDL课程4章10内容。",
+    "knowledgePoints": [
+      "dl-kp-0050"
+    ]
   },
   {
     "id": "dl-lesson-050",
@@ -1047,7 +1243,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程4章11\n\nDL课程4章11内容。",
+    "knowledgePoints": [
+      "dl-kp-0051"
+    ]
   },
   {
     "id": "dl-lesson-051",
@@ -1068,7 +1268,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程4章12\n\nDL课程4章12内容。",
+    "knowledgePoints": [
+      "dl-kp-0052"
+    ]
   },
   {
     "id": "dl-lesson-052",
@@ -1089,7 +1293,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程4章13\n\nDL课程4章13内容。",
+    "knowledgePoints": [
+      "dl-kp-0053"
+    ]
   },
   {
     "id": "dl-lesson-053",
@@ -1110,7 +1318,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程5章1\n\nDL课程5章1内容。",
+    "knowledgePoints": [
+      "dl-kp-0054"
+    ]
   },
   {
     "id": "dl-lesson-054",
@@ -1131,7 +1343,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程5章2\n\nDL课程5章2内容。",
+    "knowledgePoints": [
+      "dl-kp-0055"
+    ]
   },
   {
     "id": "dl-lesson-055",
@@ -1152,7 +1368,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程5章3\n\nDL课程5章3内容。",
+    "knowledgePoints": [
+      "dl-kp-0056"
+    ]
   },
   {
     "id": "dl-lesson-056",
@@ -1173,7 +1393,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程5章4\n\nDL课程5章4内容。",
+    "knowledgePoints": [
+      "dl-kp-0057"
+    ]
   },
   {
     "id": "dl-lesson-057",
@@ -1194,7 +1418,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程5章5\n\nDL课程5章5内容。",
+    "knowledgePoints": [
+      "dl-kp-0058"
+    ]
   },
   {
     "id": "dl-lesson-058",
@@ -1215,7 +1443,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程5章6\n\nDL课程5章6内容。",
+    "knowledgePoints": [
+      "dl-kp-0059"
+    ]
   },
   {
     "id": "dl-lesson-059",
@@ -1236,7 +1468,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程5章7\n\nDL课程5章7内容。",
+    "knowledgePoints": [
+      "dl-kp-0060"
+    ]
   },
   {
     "id": "dl-lesson-060",
@@ -1257,7 +1493,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程5章8\n\nDL课程5章8内容。",
+    "knowledgePoints": [
+      "dl-kp-0061"
+    ]
   },
   {
     "id": "dl-lesson-061",
@@ -1278,7 +1518,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程5章9\n\nDL课程5章9内容。",
+    "knowledgePoints": [
+      "dl-kp-0062"
+    ]
   },
   {
     "id": "dl-lesson-062",
@@ -1299,7 +1543,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程5章10\n\nDL课程5章10内容。",
+    "knowledgePoints": [
+      "dl-kp-0063"
+    ]
   },
   {
     "id": "dl-lesson-063",
@@ -1320,7 +1568,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程5章11\n\nDL课程5章11内容。",
+    "knowledgePoints": [
+      "dl-kp-0064"
+    ]
   },
   {
     "id": "dl-lesson-064",
@@ -1341,7 +1593,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程5章12\n\nDL课程5章12内容。",
+    "knowledgePoints": [
+      "dl-kp-0065"
+    ]
   },
   {
     "id": "dl-lesson-065",
@@ -1362,7 +1618,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程5章13\n\nDL课程5章13内容。",
+    "knowledgePoints": [
+      "dl-kp-0066"
+    ]
   },
   {
     "id": "dl-lesson-066",
@@ -1383,7 +1643,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程6章1\n\nDL课程6章1内容。",
+    "knowledgePoints": [
+      "dl-kp-0067"
+    ]
   },
   {
     "id": "dl-lesson-067",
@@ -1404,7 +1668,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程6章2\n\nDL课程6章2内容。",
+    "knowledgePoints": [
+      "dl-kp-0068"
+    ]
   },
   {
     "id": "dl-lesson-068",
@@ -1425,7 +1693,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程6章3\n\nDL课程6章3内容。",
+    "knowledgePoints": [
+      "dl-kp-0069"
+    ]
   },
   {
     "id": "dl-lesson-069",
@@ -1446,7 +1718,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程6章4\n\nDL课程6章4内容。",
+    "knowledgePoints": [
+      "dl-kp-0070"
+    ]
   },
   {
     "id": "dl-lesson-070",
@@ -1467,7 +1743,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程6章5\n\nDL课程6章5内容。",
+    "knowledgePoints": [
+      "dl-kp-0071"
+    ]
   },
   {
     "id": "dl-lesson-071",
@@ -1488,7 +1768,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程6章6\n\nDL课程6章6内容。",
+    "knowledgePoints": [
+      "dl-kp-0072"
+    ]
   },
   {
     "id": "dl-lesson-072",
@@ -1509,7 +1793,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程6章7\n\nDL课程6章7内容。",
+    "knowledgePoints": [
+      "dl-kp-0073"
+    ]
   },
   {
     "id": "dl-lesson-073",
@@ -1530,7 +1818,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程6章8\n\nDL课程6章8内容。",
+    "knowledgePoints": [
+      "dl-kp-0074"
+    ]
   },
   {
     "id": "dl-lesson-074",
@@ -1551,7 +1843,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程6章9\n\nDL课程6章9内容。",
+    "knowledgePoints": [
+      "dl-kp-0075"
+    ]
   },
   {
     "id": "dl-lesson-075",
@@ -1572,7 +1868,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程6章10\n\nDL课程6章10内容。",
+    "knowledgePoints": [
+      "dl-kp-0076"
+    ]
   },
   {
     "id": "dl-lesson-076",
@@ -1593,7 +1893,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程6章11\n\nDL课程6章11内容。",
+    "knowledgePoints": [
+      "dl-kp-0077"
+    ]
   },
   {
     "id": "dl-lesson-077",
@@ -1614,7 +1918,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程6章12\n\nDL课程6章12内容。",
+    "knowledgePoints": [
+      "dl-kp-0078"
+    ]
   },
   {
     "id": "dl-lesson-078",
@@ -1635,7 +1943,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程6章13\n\nDL课程6章13内容。",
+    "knowledgePoints": [
+      "dl-kp-0079"
+    ]
   },
   {
     "id": "dl-lesson-079",
@@ -1656,7 +1968,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程7章1\n\nDL课程7章1内容。",
+    "knowledgePoints": [
+      "dl-kp-0080"
+    ]
   },
   {
     "id": "dl-lesson-080",
@@ -1677,7 +1993,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程7章2\n\nDL课程7章2内容。",
+    "knowledgePoints": [
+      "dl-kp-0081"
+    ]
   },
   {
     "id": "dl-lesson-081",
@@ -1698,7 +2018,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程7章3\n\nDL课程7章3内容。",
+    "knowledgePoints": [
+      "dl-kp-0082"
+    ]
   },
   {
     "id": "dl-lesson-082",
@@ -1719,7 +2043,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程7章4\n\nDL课程7章4内容。",
+    "knowledgePoints": [
+      "dl-kp-0083"
+    ]
   },
   {
     "id": "dl-lesson-083",
@@ -1740,7 +2068,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程7章5\n\nDL课程7章5内容。",
+    "knowledgePoints": [
+      "dl-kp-0084"
+    ]
   },
   {
     "id": "dl-lesson-084",
@@ -1761,7 +2093,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程7章6\n\nDL课程7章6内容。",
+    "knowledgePoints": [
+      "dl-kp-0085"
+    ]
   },
   {
     "id": "dl-lesson-085",
@@ -1782,7 +2118,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程7章7\n\nDL课程7章7内容。",
+    "knowledgePoints": [
+      "dl-kp-0086"
+    ]
   },
   {
     "id": "dl-lesson-086",
@@ -1803,7 +2143,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程7章8\n\nDL课程7章8内容。",
+    "knowledgePoints": [
+      "dl-kp-0087"
+    ]
   },
   {
     "id": "dl-lesson-087",
@@ -1824,7 +2168,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程7章9\n\nDL课程7章9内容。",
+    "knowledgePoints": [
+      "dl-kp-0088"
+    ]
   },
   {
     "id": "dl-lesson-088",
@@ -1845,7 +2193,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程7章10\n\nDL课程7章10内容。",
+    "knowledgePoints": [
+      "dl-kp-0089"
+    ]
   },
   {
     "id": "dl-lesson-089",
@@ -1866,7 +2218,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程7章11\n\nDL课程7章11内容。",
+    "knowledgePoints": [
+      "dl-kp-0090"
+    ]
   },
   {
     "id": "dl-lesson-090",
@@ -1887,7 +2243,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程7章12\n\nDL课程7章12内容。",
+    "knowledgePoints": [
+      "dl-kp-0091"
+    ]
   },
   {
     "id": "dl-lesson-091",
@@ -1908,7 +2268,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程7章13\n\nDL课程7章13内容。",
+    "knowledgePoints": [
+      "dl-kp-0092"
+    ]
   },
   {
     "id": "dl-lesson-092",
@@ -1929,7 +2293,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程8章1\n\nDL课程8章1内容。",
+    "knowledgePoints": [
+      "dl-kp-0093"
+    ]
   },
   {
     "id": "dl-lesson-093",
@@ -1950,7 +2318,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程8章2\n\nDL课程8章2内容。",
+    "knowledgePoints": [
+      "dl-kp-0094"
+    ]
   },
   {
     "id": "dl-lesson-094",
@@ -1971,7 +2343,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程8章3\n\nDL课程8章3内容。",
+    "knowledgePoints": [
+      "dl-kp-0095"
+    ]
   },
   {
     "id": "dl-lesson-095",
@@ -1992,7 +2368,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程8章4\n\nDL课程8章4内容。",
+    "knowledgePoints": [
+      "dl-kp-0096"
+    ]
   },
   {
     "id": "dl-lesson-096",
@@ -2013,7 +2393,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程8章5\n\nDL课程8章5内容。",
+    "knowledgePoints": [
+      "dl-kp-0097"
+    ]
   },
   {
     "id": "dl-lesson-097",
@@ -2034,7 +2418,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程8章6\n\nDL课程8章6内容。",
+    "knowledgePoints": [
+      "dl-kp-0098"
+    ]
   },
   {
     "id": "dl-lesson-098",
@@ -2055,7 +2443,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程8章7\n\nDL课程8章7内容。",
+    "knowledgePoints": [
+      "dl-kp-0099"
+    ]
   },
   {
     "id": "dl-lesson-099",
@@ -2076,7 +2468,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程8章8\n\nDL课程8章8内容。",
+    "knowledgePoints": [
+      "dl-kp-0100"
+    ]
   },
   {
     "id": "dl-lesson-100",
@@ -2097,7 +2493,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程8章9\n\nDL课程8章9内容。",
+    "knowledgePoints": [
+      "dl-kp-0101"
+    ]
   },
   {
     "id": "dl-lesson-101",
@@ -2118,7 +2518,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程8章10\n\nDL课程8章10内容。",
+    "knowledgePoints": [
+      "dl-kp-0102"
+    ]
   },
   {
     "id": "dl-lesson-102",
@@ -2139,7 +2543,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程8章11\n\nDL课程8章11内容。",
+    "knowledgePoints": [
+      "dl-kp-0103"
+    ]
   },
   {
     "id": "dl-lesson-103",
@@ -2160,7 +2568,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程8章12\n\nDL课程8章12内容。",
+    "knowledgePoints": [
+      "dl-kp-0104"
+    ]
   },
   {
     "id": "dl-lesson-104",
@@ -2181,7 +2593,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程8章13\n\nDL课程8章13内容。",
+    "knowledgePoints": [
+      "dl-kp-0105"
+    ]
   },
   {
     "id": "dl-lesson-105",
@@ -2202,7 +2618,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程9章1\n\nDL课程9章1内容。",
+    "knowledgePoints": [
+      "dl-kp-0106"
+    ]
   },
   {
     "id": "dl-lesson-106",
@@ -2223,7 +2643,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程9章2\n\nDL课程9章2内容。",
+    "knowledgePoints": [
+      "dl-kp-0107"
+    ]
   },
   {
     "id": "dl-lesson-107",
@@ -2244,7 +2668,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程9章3\n\nDL课程9章3内容。",
+    "knowledgePoints": [
+      "dl-kp-0108"
+    ]
   },
   {
     "id": "dl-lesson-108",
@@ -2265,7 +2693,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程9章4\n\nDL课程9章4内容。",
+    "knowledgePoints": [
+      "dl-kp-0109"
+    ]
   },
   {
     "id": "dl-lesson-109",
@@ -2286,7 +2718,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程9章5\n\nDL课程9章5内容。",
+    "knowledgePoints": [
+      "dl-kp-0110"
+    ]
   },
   {
     "id": "dl-lesson-110",
@@ -2307,7 +2743,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程9章6\n\nDL课程9章6内容。",
+    "knowledgePoints": [
+      "dl-kp-0111"
+    ]
   },
   {
     "id": "dl-lesson-111",
@@ -2328,7 +2768,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程9章7\n\nDL课程9章7内容。",
+    "knowledgePoints": [
+      "dl-kp-0112"
+    ]
   },
   {
     "id": "dl-lesson-112",
@@ -2349,7 +2793,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程9章8\n\nDL课程9章8内容。",
+    "knowledgePoints": [
+      "dl-kp-0113"
+    ]
   },
   {
     "id": "dl-lesson-113",
@@ -2370,7 +2818,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程9章9\n\nDL课程9章9内容。",
+    "knowledgePoints": [
+      "dl-kp-0114"
+    ]
   },
   {
     "id": "dl-lesson-114",
@@ -2391,7 +2843,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程9章10\n\nDL课程9章10内容。",
+    "knowledgePoints": [
+      "dl-kp-0115"
+    ]
   },
   {
     "id": "dl-lesson-115",
@@ -2412,7 +2868,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程9章11\n\nDL课程9章11内容。",
+    "knowledgePoints": [
+      "dl-kp-0116"
+    ]
   },
   {
     "id": "dl-lesson-116",
@@ -2433,7 +2893,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程9章12\n\nDL课程9章12内容。",
+    "knowledgePoints": [
+      "dl-kp-0117"
+    ]
   },
   {
     "id": "dl-lesson-117",
@@ -2454,7 +2918,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程9章13\n\nDL课程9章13内容。",
+    "knowledgePoints": [
+      "dl-kp-0118"
+    ]
   },
   {
     "id": "dl-lesson-118",
@@ -2475,7 +2943,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程10章1\n\nDL课程10章1内容。",
+    "knowledgePoints": [
+      "dl-kp-0119"
+    ]
   },
   {
     "id": "dl-lesson-119",
@@ -2496,7 +2968,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程10章2\n\nDL课程10章2内容。",
+    "knowledgePoints": [
+      "dl-kp-0120"
+    ]
   },
   {
     "id": "dl-lesson-120",
@@ -2517,7 +2993,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程10章3\n\nDL课程10章3内容。",
+    "knowledgePoints": [
+      "dl-kp-0121"
+    ]
   },
   {
     "id": "dl-lesson-121",
@@ -2538,7 +3018,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程10章4\n\nDL课程10章4内容。",
+    "knowledgePoints": [
+      "dl-kp-0122"
+    ]
   },
   {
     "id": "dl-lesson-122",
@@ -2559,7 +3043,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程10章5\n\nDL课程10章5内容。",
+    "knowledgePoints": [
+      "dl-kp-0123"
+    ]
   },
   {
     "id": "dl-lesson-123",
@@ -2580,7 +3068,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程10章6\n\nDL课程10章6内容。",
+    "knowledgePoints": [
+      "dl-kp-0124"
+    ]
   },
   {
     "id": "dl-lesson-124",
@@ -2601,7 +3093,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程10章7\n\nDL课程10章7内容。",
+    "knowledgePoints": [
+      "dl-kp-0125"
+    ]
   },
   {
     "id": "dl-lesson-125",
@@ -2622,7 +3118,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程10章8\n\nDL课程10章8内容。",
+    "knowledgePoints": [
+      "dl-kp-0126"
+    ]
   },
   {
     "id": "dl-lesson-126",
@@ -2643,7 +3143,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程10章9\n\nDL课程10章9内容。",
+    "knowledgePoints": [
+      "dl-kp-0127"
+    ]
   },
   {
     "id": "dl-lesson-127",
@@ -2664,7 +3168,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程10章10\n\nDL课程10章10内容。",
+    "knowledgePoints": [
+      "dl-kp-0128"
+    ]
   },
   {
     "id": "dl-lesson-128",
@@ -2685,7 +3193,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程10章11\n\nDL课程10章11内容。",
+    "knowledgePoints": [
+      "dl-kp-0129"
+    ]
   },
   {
     "id": "dl-lesson-129",
@@ -2706,7 +3218,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程10章12\n\nDL课程10章12内容。",
+    "knowledgePoints": [
+      "dl-kp-0130"
+    ]
   },
   {
     "id": "dl-lesson-130",
@@ -2727,7 +3243,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程10章13\n\nDL课程10章13内容。",
+    "knowledgePoints": [
+      "dl-kp-0131"
+    ]
   },
   {
     "id": "dl-lesson-131",
@@ -2748,7 +3268,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程11章1\n\nDL课程11章1内容。",
+    "knowledgePoints": [
+      "dl-kp-0132"
+    ]
   },
   {
     "id": "dl-lesson-132",
@@ -2769,7 +3293,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程11章2\n\nDL课程11章2内容。",
+    "knowledgePoints": [
+      "dl-kp-0133"
+    ]
   },
   {
     "id": "dl-lesson-133",
@@ -2790,7 +3318,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程11章3\n\nDL课程11章3内容。",
+    "knowledgePoints": [
+      "dl-kp-0134"
+    ]
   },
   {
     "id": "dl-lesson-134",
@@ -2811,7 +3343,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程11章4\n\nDL课程11章4内容。",
+    "knowledgePoints": [
+      "dl-kp-0135"
+    ]
   },
   {
     "id": "dl-lesson-135",
@@ -2832,7 +3368,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程11章5\n\nDL课程11章5内容。",
+    "knowledgePoints": [
+      "dl-kp-0136"
+    ]
   },
   {
     "id": "dl-lesson-136",
@@ -2853,7 +3393,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程11章6\n\nDL课程11章6内容。",
+    "knowledgePoints": [
+      "dl-kp-0137"
+    ]
   },
   {
     "id": "dl-lesson-137",
@@ -2874,7 +3418,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程11章7\n\nDL课程11章7内容。",
+    "knowledgePoints": [
+      "dl-kp-0138"
+    ]
   },
   {
     "id": "dl-lesson-138",
@@ -2895,7 +3443,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程11章8\n\nDL课程11章8内容。",
+    "knowledgePoints": [
+      "dl-kp-0139"
+    ]
   },
   {
     "id": "dl-lesson-139",
@@ -2916,7 +3468,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程11章9\n\nDL课程11章9内容。",
+    "knowledgePoints": [
+      "dl-kp-0140"
+    ]
   },
   {
     "id": "dl-lesson-140",
@@ -2937,7 +3493,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程11章10\n\nDL课程11章10内容。",
+    "knowledgePoints": [
+      "dl-kp-0141"
+    ]
   },
   {
     "id": "dl-lesson-141",
@@ -2958,7 +3518,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程11章11\n\nDL课程11章11内容。",
+    "knowledgePoints": [
+      "dl-kp-0142"
+    ]
   },
   {
     "id": "dl-lesson-142",
@@ -2979,7 +3543,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程11章12\n\nDL课程11章12内容。",
+    "knowledgePoints": [
+      "dl-kp-0143"
+    ]
   },
   {
     "id": "dl-lesson-143",
@@ -3000,7 +3568,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程11章13\n\nDL课程11章13内容。",
+    "knowledgePoints": [
+      "dl-kp-0144"
+    ]
   },
   {
     "id": "dl-lesson-144",
@@ -3021,7 +3593,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程12章1\n\nDL课程12章1内容。",
+    "knowledgePoints": [
+      "dl-kp-0145"
+    ]
   },
   {
     "id": "dl-lesson-145",
@@ -3042,7 +3618,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程12章2\n\nDL课程12章2内容。",
+    "knowledgePoints": [
+      "dl-kp-0146"
+    ]
   },
   {
     "id": "dl-lesson-146",
@@ -3063,7 +3643,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程12章3\n\nDL课程12章3内容。",
+    "knowledgePoints": [
+      "dl-kp-0147"
+    ]
   },
   {
     "id": "dl-lesson-147",
@@ -3084,7 +3668,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程12章4\n\nDL课程12章4内容。",
+    "knowledgePoints": [
+      "dl-kp-0148"
+    ]
   },
   {
     "id": "dl-lesson-148",
@@ -3105,7 +3693,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程12章5\n\nDL课程12章5内容。",
+    "knowledgePoints": [
+      "dl-kp-0149"
+    ]
   },
   {
     "id": "dl-lesson-149",
@@ -3126,7 +3718,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程12章6\n\nDL课程12章6内容。",
+    "knowledgePoints": [
+      "dl-kp-0150"
+    ]
   },
   {
     "id": "dl-lesson-150",
@@ -3147,7 +3743,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程12章7\n\nDL课程12章7内容。",
+    "knowledgePoints": [
+      "dl-kp-0151"
+    ]
   },
   {
     "id": "dl-lesson-151",
@@ -3168,7 +3768,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程12章8\n\nDL课程12章8内容。",
+    "knowledgePoints": [
+      "dl-kp-0152"
+    ]
   },
   {
     "id": "dl-lesson-152",
@@ -3189,7 +3793,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程12章9\n\nDL课程12章9内容。",
+    "knowledgePoints": [
+      "dl-kp-0153"
+    ]
   },
   {
     "id": "dl-lesson-153",
@@ -3210,7 +3818,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程12章10\n\nDL课程12章10内容。",
+    "knowledgePoints": [
+      "dl-kp-0154"
+    ]
   },
   {
     "id": "dl-lesson-154",
@@ -3231,7 +3843,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程12章11\n\nDL课程12章11内容。",
+    "knowledgePoints": [
+      "dl-kp-0155"
+    ]
   },
   {
     "id": "dl-lesson-155",
@@ -3252,7 +3868,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程12章12\n\nDL课程12章12内容。",
+    "knowledgePoints": [
+      "dl-kp-0156"
+    ]
   },
   {
     "id": "dl-lesson-156",
@@ -3273,7 +3893,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程12章13\n\nDL课程12章13内容。",
+    "knowledgePoints": [
+      "dl-kp-0157"
+    ]
   },
   {
     "id": "dl-lesson-157",
@@ -3294,7 +3918,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程13章1\n\nDL课程13章1内容。",
+    "knowledgePoints": [
+      "dl-kp-0158"
+    ]
   },
   {
     "id": "dl-lesson-158",
@@ -3315,7 +3943,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程13章2\n\nDL课程13章2内容。",
+    "knowledgePoints": [
+      "dl-kp-0159"
+    ]
   },
   {
     "id": "dl-lesson-159",
@@ -3336,7 +3968,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程13章3\n\nDL课程13章3内容。",
+    "knowledgePoints": [
+      "dl-kp-0160"
+    ]
   },
   {
     "id": "dl-lesson-160",
@@ -3357,7 +3993,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程13章4\n\nDL课程13章4内容。",
+    "knowledgePoints": [
+      "dl-kp-0161"
+    ]
   },
   {
     "id": "dl-lesson-161",
@@ -3378,7 +4018,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程13章5\n\nDL课程13章5内容。",
+    "knowledgePoints": [
+      "dl-kp-0162"
+    ]
   },
   {
     "id": "dl-lesson-162",
@@ -3399,7 +4043,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程13章6\n\nDL课程13章6内容。",
+    "knowledgePoints": [
+      "dl-kp-0163"
+    ]
   },
   {
     "id": "dl-lesson-163",
@@ -3420,7 +4068,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程13章7\n\nDL课程13章7内容。",
+    "knowledgePoints": [
+      "dl-kp-0164"
+    ]
   },
   {
     "id": "dl-lesson-164",
@@ -3441,7 +4093,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程13章8\n\nDL课程13章8内容。",
+    "knowledgePoints": [
+      "dl-kp-0165"
+    ]
   },
   {
     "id": "dl-lesson-165",
@@ -3462,7 +4118,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程13章9\n\nDL课程13章9内容。",
+    "knowledgePoints": [
+      "dl-kp-0166"
+    ]
   },
   {
     "id": "dl-lesson-166",
@@ -3483,7 +4143,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程13章10\n\nDL课程13章10内容。",
+    "knowledgePoints": [
+      "dl-kp-0167"
+    ]
   },
   {
     "id": "dl-lesson-167",
@@ -3504,7 +4168,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程13章11\n\nDL课程13章11内容。",
+    "knowledgePoints": [
+      "dl-kp-0168"
+    ]
   },
   {
     "id": "dl-lesson-168",
@@ -3525,7 +4193,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程13章12\n\nDL课程13章12内容。",
+    "knowledgePoints": [
+      "dl-kp-0169"
+    ]
   },
   {
     "id": "dl-lesson-169",
@@ -3546,7 +4218,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程13章13\n\nDL课程13章13内容。",
+    "knowledgePoints": [
+      "dl-kp-0170"
+    ]
   },
   {
     "id": "dl-lesson-170",
@@ -3567,7 +4243,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程14章1\n\nDL课程14章1内容。",
+    "knowledgePoints": [
+      "dl-kp-0171"
+    ]
   },
   {
     "id": "dl-lesson-171",
@@ -3588,7 +4268,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程14章2\n\nDL课程14章2内容。",
+    "knowledgePoints": [
+      "dl-kp-0172"
+    ]
   },
   {
     "id": "dl-lesson-172",
@@ -3609,7 +4293,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程14章3\n\nDL课程14章3内容。",
+    "knowledgePoints": [
+      "dl-kp-0173"
+    ]
   },
   {
     "id": "dl-lesson-173",
@@ -3630,7 +4318,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程14章4\n\nDL课程14章4内容。",
+    "knowledgePoints": [
+      "dl-kp-0174"
+    ]
   },
   {
     "id": "dl-lesson-174",
@@ -3651,7 +4343,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程14章5\n\nDL课程14章5内容。",
+    "knowledgePoints": [
+      "dl-kp-0175"
+    ]
   },
   {
     "id": "dl-lesson-175",
@@ -3672,7 +4368,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程14章6\n\nDL课程14章6内容。",
+    "knowledgePoints": [
+      "dl-kp-0176"
+    ]
   },
   {
     "id": "dl-lesson-176",
@@ -3693,7 +4393,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程14章7\n\nDL课程14章7内容。",
+    "knowledgePoints": [
+      "dl-kp-0177"
+    ]
   },
   {
     "id": "dl-lesson-177",
@@ -3714,7 +4418,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程14章8\n\nDL课程14章8内容。",
+    "knowledgePoints": [
+      "dl-kp-0178"
+    ]
   },
   {
     "id": "dl-lesson-178",
@@ -3735,7 +4443,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程14章9\n\nDL课程14章9内容。",
+    "knowledgePoints": [
+      "dl-kp-0179"
+    ]
   },
   {
     "id": "dl-lesson-179",
@@ -3756,7 +4468,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程14章10\n\nDL课程14章10内容。",
+    "knowledgePoints": [
+      "dl-kp-0180"
+    ]
   },
   {
     "id": "dl-lesson-180",
@@ -3777,7 +4493,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程14章11\n\nDL课程14章11内容。",
+    "knowledgePoints": [
+      "dl-kp-0181"
+    ]
   },
   {
     "id": "dl-lesson-181",
@@ -3798,7 +4518,11 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程14章12\n\nDL课程14章12内容。",
+    "knowledgePoints": [
+      "dl-kp-0182"
+    ]
   },
   {
     "id": "dl-lesson-182",
@@ -3819,6 +4543,10 @@
       "DL"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#DL课程14章13\n\nDL课程14章13内容。",
+    "knowledgePoints": [
+      "dl-kp-0183"
+    ]
   }
 ]

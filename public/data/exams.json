@@ -36,7 +36,11 @@
     "tags": [
       "DL入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DL入门基础",
+    "description": "DL入门基础",
+    "slug": "dl入门基础"
   },
   {
     "id": "dl-exam-02",
@@ -75,7 +79,11 @@
     "tags": [
       "神经元张量"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "神经元张量基础",
+    "description": "神经元张量基础",
+    "slug": "神经元张量基础"
   },
   {
     "id": "dl-exam-03",
@@ -114,7 +122,11 @@
     "tags": [
       "前向反向传播"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "前向反向传播基础",
+    "description": "前向反向传播基础",
+    "slug": "前向反向传播基础"
   },
   {
     "id": "dl-exam-04",
@@ -153,7 +165,11 @@
     "tags": [
       "激活损失优化"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "激活损失优化基础",
+    "description": "激活损失优化基础",
+    "slug": "激活损失优化基础"
   },
   {
     "id": "dl-exam-05",
@@ -192,7 +208,11 @@
     "tags": [
       "PyTorch基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PyTorch基础基础",
+    "description": "PyTorch基础基础",
+    "slug": "pytorch基础基础"
   },
   {
     "id": "dl-exam-06",
@@ -231,7 +251,11 @@
     "tags": [
       "数据加载训练"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据加载训练基础",
+    "description": "数据加载训练基础",
+    "slug": "数据加载训练基础"
   },
   {
     "id": "dl-exam-07",
@@ -270,7 +294,11 @@
     "tags": [
       "MLP多层感知机"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "MLP多层感知机基础",
+    "description": "MLP多层感知机基础",
+    "slug": "mlp多层感知机基础"
   },
   {
     "id": "dl-exam-08",
@@ -309,7 +337,11 @@
     "tags": [
       "CNN卷积"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "CNN卷积基础",
+    "description": "CNN卷积基础",
+    "slug": "cnn卷积基础"
   },
   {
     "id": "dl-exam-09",
@@ -348,7 +380,11 @@
     "tags": [
       "图像分类项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "图像分类项目基础",
+    "description": "图像分类项目基础",
+    "slug": "图像分类项目基础"
   },
   {
     "id": "dl-exam-10",
@@ -387,7 +423,11 @@
     "tags": [
       "RNNLSTM"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RNNLSTM基础",
+    "description": "RNNLSTM基础",
+    "slug": "rnnlstm基础"
   },
   {
     "id": "dl-exam-11",
@@ -426,7 +466,11 @@
     "tags": [
       "AttentionTransformer"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AttentionTransformer基础",
+    "description": "AttentionTransformer基础",
+    "slug": "attentiontransformer基础"
   },
   {
     "id": "dl-exam-12",
@@ -465,7 +509,11 @@
     "tags": [
       "正则化调参"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "正则化调参基础",
+    "description": "正则化调参基础",
+    "slug": "正则化调参基础"
   },
   {
     "id": "dl-exam-13",
@@ -504,7 +552,11 @@
     "tags": [
       "模型保存部署"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模型保存部署基础",
+    "description": "模型保存部署基础",
+    "slug": "模型保存部署基础"
   },
   {
     "id": "dl-exam-14",
@@ -543,7 +595,11 @@
     "tags": [
       "DL项目面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DL项目面试基础",
+    "description": "DL项目面试基础",
+    "slug": "dl项目面试基础"
   },
   {
     "id": "dl-exam-15",
@@ -582,7 +638,11 @@
     "tags": [
       "DL入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DL入门基础",
+    "description": "DL入门基础",
+    "slug": "dl入门基础"
   },
   {
     "id": "dl-exam-16",
@@ -621,7 +681,11 @@
     "tags": [
       "神经元张量"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "神经元张量基础",
+    "description": "神经元张量基础",
+    "slug": "神经元张量基础"
   },
   {
     "id": "dl-exam-17",
@@ -660,7 +724,11 @@
     "tags": [
       "前向反向传播"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "前向反向传播基础",
+    "description": "前向反向传播基础",
+    "slug": "前向反向传播基础"
   },
   {
     "id": "dl-exam-18",
@@ -699,7 +767,11 @@
     "tags": [
       "激活损失优化"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "激活损失优化基础",
+    "description": "激活损失优化基础",
+    "slug": "激活损失优化基础"
   },
   {
     "id": "dl-exam-19",
@@ -738,7 +810,11 @@
     "tags": [
       "PyTorch基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PyTorch基础基础",
+    "description": "PyTorch基础基础",
+    "slug": "pytorch基础基础"
   },
   {
     "id": "dl-exam-20",
@@ -777,7 +853,11 @@
     "tags": [
       "数据加载训练"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据加载训练基础",
+    "description": "数据加载训练基础",
+    "slug": "数据加载训练基础"
   },
   {
     "id": "dl-exam-21",
@@ -816,7 +896,11 @@
     "tags": [
       "MLP多层感知机"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "MLP多层感知机基础",
+    "description": "MLP多层感知机基础",
+    "slug": "mlp多层感知机基础"
   },
   {
     "id": "dl-exam-22",
@@ -855,7 +939,11 @@
     "tags": [
       "CNN卷积"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "CNN卷积基础",
+    "description": "CNN卷积基础",
+    "slug": "cnn卷积基础"
   },
   {
     "id": "dl-exam-23",
@@ -894,7 +982,11 @@
     "tags": [
       "图像分类项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "图像分类项目基础",
+    "description": "图像分类项目基础",
+    "slug": "图像分类项目基础"
   },
   {
     "id": "dl-exam-24",
@@ -933,7 +1025,11 @@
     "tags": [
       "RNNLSTM"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RNNLSTM基础",
+    "description": "RNNLSTM基础",
+    "slug": "rnnlstm基础"
   },
   {
     "id": "dl-exam-25",
@@ -972,7 +1068,11 @@
     "tags": [
       "AttentionTransformer"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AttentionTransformer基础",
+    "description": "AttentionTransformer基础",
+    "slug": "attentiontransformer基础"
   },
   {
     "id": "dl-exam-26",
@@ -1011,7 +1111,11 @@
     "tags": [
       "正则化调参"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "正则化调参基础",
+    "description": "正则化调参基础",
+    "slug": "正则化调参基础"
   },
   {
     "id": "dl-exam-27",
@@ -1050,7 +1154,11 @@
     "tags": [
       "模型保存部署"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模型保存部署基础",
+    "description": "模型保存部署基础",
+    "slug": "模型保存部署基础"
   },
   {
     "id": "dl-exam-28",
@@ -1089,7 +1197,11 @@
     "tags": [
       "DL项目面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DL项目面试基础",
+    "description": "DL项目面试基础",
+    "slug": "dl项目面试基础"
   },
   {
     "id": "dl-exam-29",
@@ -1128,7 +1240,11 @@
     "tags": [
       "DL入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DL入门基础",
+    "description": "DL入门基础",
+    "slug": "dl入门基础"
   },
   {
     "id": "dl-exam-30",
@@ -1167,7 +1283,11 @@
     "tags": [
       "神经元张量"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "神经元张量基础",
+    "description": "神经元张量基础",
+    "slug": "神经元张量基础"
   },
   {
     "id": "dl-exam-31",
@@ -1206,7 +1326,11 @@
     "tags": [
       "前向反向传播"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "前向反向传播基础",
+    "description": "前向反向传播基础",
+    "slug": "前向反向传播基础"
   },
   {
     "id": "dl-exam-32",
@@ -1245,7 +1369,11 @@
     "tags": [
       "激活损失优化"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "激活损失优化基础",
+    "description": "激活损失优化基础",
+    "slug": "激活损失优化基础"
   },
   {
     "id": "dl-exam-33",
@@ -1284,7 +1412,11 @@
     "tags": [
       "PyTorch基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PyTorch基础基础",
+    "description": "PyTorch基础基础",
+    "slug": "pytorch基础基础"
   },
   {
     "id": "dl-exam-34",
@@ -1323,7 +1455,11 @@
     "tags": [
       "数据加载训练"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据加载训练基础",
+    "description": "数据加载训练基础",
+    "slug": "数据加载训练基础"
   },
   {
     "id": "dl-exam-35",
@@ -1362,7 +1498,11 @@
     "tags": [
       "MLP多层感知机"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "MLP多层感知机基础",
+    "description": "MLP多层感知机基础",
+    "slug": "mlp多层感知机基础"
   },
   {
     "id": "dl-exam-36",
@@ -1401,7 +1541,11 @@
     "tags": [
       "CNN卷积"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "CNN卷积进阶",
+    "description": "CNN卷积进阶",
+    "slug": "cnn卷积进阶"
   },
   {
     "id": "dl-exam-37",
@@ -1440,7 +1584,11 @@
     "tags": [
       "图像分类项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "图像分类项目进阶",
+    "description": "图像分类项目进阶",
+    "slug": "图像分类项目进阶"
   },
   {
     "id": "dl-exam-38",
@@ -1479,7 +1627,11 @@
     "tags": [
       "RNNLSTM"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RNNLSTM进阶",
+    "description": "RNNLSTM进阶",
+    "slug": "rnnlstm进阶"
   },
   {
     "id": "dl-exam-39",
@@ -1518,7 +1670,11 @@
     "tags": [
       "AttentionTransformer"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AttentionTransformer进阶",
+    "description": "AttentionTransformer进阶",
+    "slug": "attentiontransformer进阶"
   },
   {
     "id": "dl-exam-40",
@@ -1557,7 +1713,11 @@
     "tags": [
       "正则化调参"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "正则化调参进阶",
+    "description": "正则化调参进阶",
+    "slug": "正则化调参进阶"
   },
   {
     "id": "dl-exam-41",
@@ -1596,7 +1756,11 @@
     "tags": [
       "模型保存部署"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模型保存部署进阶",
+    "description": "模型保存部署进阶",
+    "slug": "模型保存部署进阶"
   },
   {
     "id": "dl-exam-42",
@@ -1635,7 +1799,11 @@
     "tags": [
       "DL项目面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DL项目面试进阶",
+    "description": "DL项目面试进阶",
+    "slug": "dl项目面试进阶"
   },
   {
     "id": "dl-exam-43",
@@ -1674,7 +1842,11 @@
     "tags": [
       "DL入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DL入门进阶",
+    "description": "DL入门进阶",
+    "slug": "dl入门进阶"
   },
   {
     "id": "dl-exam-44",
@@ -1713,7 +1885,11 @@
     "tags": [
       "神经元张量"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "神经元张量进阶",
+    "description": "神经元张量进阶",
+    "slug": "神经元张量进阶"
   },
   {
     "id": "dl-exam-45",
@@ -1752,7 +1928,11 @@
     "tags": [
       "前向反向传播"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "前向反向传播进阶",
+    "description": "前向反向传播进阶",
+    "slug": "前向反向传播进阶"
   },
   {
     "id": "dl-exam-46",
@@ -1791,7 +1971,11 @@
     "tags": [
       "激活损失优化"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "激活损失优化进阶",
+    "description": "激活损失优化进阶",
+    "slug": "激活损失优化进阶"
   },
   {
     "id": "dl-exam-47",
@@ -1830,7 +2014,11 @@
     "tags": [
       "PyTorch基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PyTorch基础进阶",
+    "description": "PyTorch基础进阶",
+    "slug": "pytorch基础进阶"
   },
   {
     "id": "dl-exam-48",
@@ -1869,7 +2057,11 @@
     "tags": [
       "数据加载训练"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据加载训练进阶",
+    "description": "数据加载训练进阶",
+    "slug": "数据加载训练进阶"
   },
   {
     "id": "dl-exam-49",
@@ -1908,7 +2100,11 @@
     "tags": [
       "MLP多层感知机"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "MLP多层感知机进阶",
+    "description": "MLP多层感知机进阶",
+    "slug": "mlp多层感知机进阶"
   },
   {
     "id": "dl-exam-50",
@@ -1947,7 +2143,11 @@
     "tags": [
       "CNN卷积"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "CNN卷积进阶",
+    "description": "CNN卷积进阶",
+    "slug": "cnn卷积进阶"
   },
   {
     "id": "dl-exam-51",
@@ -1986,7 +2186,11 @@
     "tags": [
       "图像分类项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "图像分类项目进阶",
+    "description": "图像分类项目进阶",
+    "slug": "图像分类项目进阶"
   },
   {
     "id": "dl-exam-52",
@@ -2025,7 +2229,11 @@
     "tags": [
       "RNNLSTM"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RNNLSTM进阶",
+    "description": "RNNLSTM进阶",
+    "slug": "rnnlstm进阶"
   },
   {
     "id": "dl-exam-53",
@@ -2064,7 +2272,11 @@
     "tags": [
       "AttentionTransformer"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AttentionTransformer进阶",
+    "description": "AttentionTransformer进阶",
+    "slug": "attentiontransformer进阶"
   },
   {
     "id": "dl-exam-54",
@@ -2103,7 +2315,11 @@
     "tags": [
       "正则化调参"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "正则化调参进阶",
+    "description": "正则化调参进阶",
+    "slug": "正则化调参进阶"
   },
   {
     "id": "dl-exam-55",
@@ -2142,7 +2358,11 @@
     "tags": [
       "模型保存部署"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模型保存部署进阶",
+    "description": "模型保存部署进阶",
+    "slug": "模型保存部署进阶"
   },
   {
     "id": "dl-exam-56",
@@ -2181,7 +2401,11 @@
     "tags": [
       "DL项目面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DL项目面试进阶",
+    "description": "DL项目面试进阶",
+    "slug": "dl项目面试进阶"
   },
   {
     "id": "dl-exam-57",
@@ -2220,7 +2444,11 @@
     "tags": [
       "DL入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DL入门进阶",
+    "description": "DL入门进阶",
+    "slug": "dl入门进阶"
   },
   {
     "id": "dl-exam-58",
@@ -2259,7 +2487,11 @@
     "tags": [
       "神经元张量"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "神经元张量进阶",
+    "description": "神经元张量进阶",
+    "slug": "神经元张量进阶"
   },
   {
     "id": "dl-exam-59",
@@ -2298,7 +2530,11 @@
     "tags": [
       "前向反向传播"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "前向反向传播进阶",
+    "description": "前向反向传播进阶",
+    "slug": "前向反向传播进阶"
   },
   {
     "id": "dl-exam-60",
@@ -2337,7 +2573,11 @@
     "tags": [
       "激活损失优化"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "激活损失优化进阶",
+    "description": "激活损失优化进阶",
+    "slug": "激活损失优化进阶"
   },
   {
     "id": "dl-exam-61",
@@ -2376,7 +2616,11 @@
     "tags": [
       "PyTorch基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PyTorch基础进阶",
+    "description": "PyTorch基础进阶",
+    "slug": "pytorch基础进阶"
   },
   {
     "id": "dl-exam-62",
@@ -2415,7 +2659,11 @@
     "tags": [
       "数据加载训练"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据加载训练进阶",
+    "description": "数据加载训练进阶",
+    "slug": "数据加载训练进阶"
   },
   {
     "id": "dl-exam-63",
@@ -2454,7 +2702,11 @@
     "tags": [
       "MLP多层感知机"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "MLP多层感知机进阶",
+    "description": "MLP多层感知机进阶",
+    "slug": "mlp多层感知机进阶"
   },
   {
     "id": "dl-exam-64",
@@ -2493,7 +2745,11 @@
     "tags": [
       "CNN卷积"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "CNN卷积进阶",
+    "description": "CNN卷积进阶",
+    "slug": "cnn卷积进阶"
   },
   {
     "id": "dl-exam-65",
@@ -2532,7 +2788,11 @@
     "tags": [
       "图像分类项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "图像分类项目进阶",
+    "description": "图像分类项目进阶",
+    "slug": "图像分类项目进阶"
   },
   {
     "id": "dl-exam-66",
@@ -2571,7 +2831,11 @@
     "tags": [
       "RNNLSTM"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RNNLSTM综合",
+    "description": "RNNLSTM综合",
+    "slug": "rnnlstm综合"
   },
   {
     "id": "dl-exam-67",
@@ -2610,7 +2874,11 @@
     "tags": [
       "AttentionTransformer"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AttentionTransformer综合",
+    "description": "AttentionTransformer综合",
+    "slug": "attentiontransformer综合"
   },
   {
     "id": "dl-exam-68",
@@ -2649,7 +2917,11 @@
     "tags": [
       "正则化调参"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "正则化调参综合",
+    "description": "正则化调参综合",
+    "slug": "正则化调参综合"
   },
   {
     "id": "dl-exam-69",
@@ -2688,7 +2960,11 @@
     "tags": [
       "模型保存部署"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模型保存部署综合",
+    "description": "模型保存部署综合",
+    "slug": "模型保存部署综合"
   },
   {
     "id": "dl-exam-70",
@@ -2727,7 +3003,11 @@
     "tags": [
       "DL项目面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DL项目面试综合",
+    "description": "DL项目面试综合",
+    "slug": "dl项目面试综合"
   },
   {
     "id": "dl-exam-71",
@@ -2766,7 +3046,11 @@
     "tags": [
       "DL入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DL入门综合",
+    "description": "DL入门综合",
+    "slug": "dl入门综合"
   },
   {
     "id": "dl-exam-72",
@@ -2805,7 +3089,11 @@
     "tags": [
       "神经元张量"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "神经元张量综合",
+    "description": "神经元张量综合",
+    "slug": "神经元张量综合"
   },
   {
     "id": "dl-exam-73",
@@ -2844,7 +3132,11 @@
     "tags": [
       "前向反向传播"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "前向反向传播综合",
+    "description": "前向反向传播综合",
+    "slug": "前向反向传播综合"
   },
   {
     "id": "dl-exam-74",
@@ -2883,7 +3175,11 @@
     "tags": [
       "激活损失优化"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "激活损失优化综合",
+    "description": "激活损失优化综合",
+    "slug": "激活损失优化综合"
   },
   {
     "id": "dl-exam-75",
@@ -2922,7 +3218,11 @@
     "tags": [
       "PyTorch基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PyTorch基础综合",
+    "description": "PyTorch基础综合",
+    "slug": "pytorch基础综合"
   },
   {
     "id": "dl-exam-76",
@@ -2961,7 +3261,11 @@
     "tags": [
       "数据加载训练"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据加载训练综合",
+    "description": "数据加载训练综合",
+    "slug": "数据加载训练综合"
   },
   {
     "id": "dl-exam-77",
@@ -3000,7 +3304,11 @@
     "tags": [
       "MLP多层感知机"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "MLP多层感知机综合",
+    "description": "MLP多层感知机综合",
+    "slug": "mlp多层感知机综合"
   },
   {
     "id": "dl-exam-78",
@@ -3039,7 +3347,11 @@
     "tags": [
       "CNN卷积"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "CNN卷积综合",
+    "description": "CNN卷积综合",
+    "slug": "cnn卷积综合"
   },
   {
     "id": "dl-exam-79",
@@ -3078,7 +3390,11 @@
     "tags": [
       "图像分类项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "图像分类项目综合",
+    "description": "图像分类项目综合",
+    "slug": "图像分类项目综合"
   },
   {
     "id": "dl-exam-80",
@@ -3117,7 +3433,11 @@
     "tags": [
       "RNNLSTM"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RNNLSTM综合",
+    "description": "RNNLSTM综合",
+    "slug": "rnnlstm综合"
   },
   {
     "id": "dl-exam-81",
@@ -3156,7 +3476,11 @@
     "tags": [
       "AttentionTransformer"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AttentionTransformer综合",
+    "description": "AttentionTransformer综合",
+    "slug": "attentiontransformer综合"
   },
   {
     "id": "dl-exam-82",
@@ -3195,7 +3519,11 @@
     "tags": [
       "正则化调参"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "正则化调参综合",
+    "description": "正则化调参综合",
+    "slug": "正则化调参综合"
   },
   {
     "id": "dl-exam-83",
@@ -3234,7 +3562,11 @@
     "tags": [
       "模型保存部署"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模型保存部署综合",
+    "description": "模型保存部署综合",
+    "slug": "模型保存部署综合"
   },
   {
     "id": "dl-exam-84",
@@ -3273,7 +3605,11 @@
     "tags": [
       "DL项目面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DL项目面试综合",
+    "description": "DL项目面试综合",
+    "slug": "dl项目面试综合"
   },
   {
     "id": "dl-exam-85",
@@ -3312,7 +3648,11 @@
     "tags": [
       "DL入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DL入门综合",
+    "description": "DL入门综合",
+    "slug": "dl入门综合"
   },
   {
     "id": "dl-exam-86",
@@ -3351,7 +3691,11 @@
     "tags": [
       "神经元张量"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "神经元张量综合",
+    "description": "神经元张量综合",
+    "slug": "神经元张量综合"
   },
   {
     "id": "dl-exam-87",
@@ -3390,7 +3734,11 @@
     "tags": [
       "前向反向传播"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "前向反向传播综合",
+    "description": "前向反向传播综合",
+    "slug": "前向反向传播综合"
   },
   {
     "id": "dl-exam-88",
@@ -3429,7 +3777,11 @@
     "tags": [
       "激活损失优化"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "激活损失优化综合",
+    "description": "激活损失优化综合",
+    "slug": "激活损失优化综合"
   },
   {
     "id": "dl-exam-89",
@@ -3468,7 +3820,11 @@
     "tags": [
       "PyTorch基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PyTorch基础综合",
+    "description": "PyTorch基础综合",
+    "slug": "pytorch基础综合"
   },
   {
     "id": "dl-exam-90",
@@ -3507,7 +3863,11 @@
     "tags": [
       "数据加载训练"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据加载训练综合",
+    "description": "数据加载训练综合",
+    "slug": "数据加载训练综合"
   },
   {
     "id": "dl-exam-91",
@@ -3546,7 +3906,11 @@
     "tags": [
       "MLP多层感知机"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "MLP多层感知机综合",
+    "description": "MLP多层感知机综合",
+    "slug": "mlp多层感知机综合"
   },
   {
     "id": "dl-exam-92",
@@ -3585,7 +3949,11 @@
     "tags": [
       "CNN卷积"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "CNN卷积综合",
+    "description": "CNN卷积综合",
+    "slug": "cnn卷积综合"
   },
   {
     "id": "dl-exam-93",
@@ -3624,7 +3992,11 @@
     "tags": [
       "图像分类项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "图像分类项目综合",
+    "description": "图像分类项目综合",
+    "slug": "图像分类项目综合"
   },
   {
     "id": "dl-exam-94",
@@ -3663,7 +4035,11 @@
     "tags": [
       "RNNLSTM"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RNNLSTM综合",
+    "description": "RNNLSTM综合",
+    "slug": "rnnlstm综合"
   },
   {
     "id": "dl-exam-95",
@@ -3702,7 +4078,11 @@
     "tags": [
       "AttentionTransformer"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AttentionTransformer综合",
+    "description": "AttentionTransformer综合",
+    "slug": "attentiontransformer综合"
   },
   {
     "id": "dl-exam-96",
@@ -3741,7 +4121,11 @@
     "tags": [
       "正则化调参"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "正则化调参综合",
+    "description": "正则化调参综合",
+    "slug": "正则化调参综合"
   },
   {
     "id": "dl-exam-97",
@@ -3780,7 +4164,11 @@
     "tags": [
       "模型保存部署"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模型保存部署综合",
+    "description": "模型保存部署综合",
+    "slug": "模型保存部署综合"
   },
   {
     "id": "dl-exam-98",
@@ -3819,7 +4207,11 @@
     "tags": [
       "DL项目面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DL项目面试综合",
+    "description": "DL项目面试综合",
+    "slug": "dl项目面试综合"
   },
   {
     "id": "dl-exam-99",
@@ -3858,7 +4250,11 @@
     "tags": [
       "DL入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DL入门综合",
+    "description": "DL入门综合",
+    "slug": "dl入门综合"
   },
   {
     "id": "dl-exam-100",
@@ -3897,6 +4293,10 @@
     "tags": [
       "神经元张量"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "神经元张量综合",
+    "description": "神经元张量综合",
+    "slug": "神经元张量综合"
   }
 ]
